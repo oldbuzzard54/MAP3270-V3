@@ -1,0 +1,2181 @@
+                        UU        UU  PPPPPPPPPPP    GGGGGGGGGG   RRRRRRRRRRR    AAAAAAAAAA   DDDDDDDDD     EEEEEEEEEEEE
+                       UU        UU  PPPPPPPPPPPP  GGGGGGGGGGGG  RRRRRRRRRRRR  AAAAAAAAAAAA  DDDDDDDDDD    EEEEEEEEEEEE
+                      UU        UU  PP        PP  GG        GG  RR        RR  AA        AA  DD       DD   EE
+                     UU        UU  PP        PP  GG            RR        RR  AA        AA  DD        DD  EE
+                    UU        UU  PP        PP  GG            RR        RR  AA        AA  DD        DD  EE
+                   UU        UU  PPPPPPPPPPPP  GG            RRRRRRRRRRRR  AAAAAAAAAAAA  DD        DD  EEEEEEEE
+                  UU        UU  PPPPPPPPPPP   GG     GGGGG  RRRRRRRRRRR   AAAAAAAAAAAA  DD        DD  EEEEEEEE
+                 UU        UU  PP            GG     GGGGG  RR    RR      AA        AA  DD        DD  EE
+                UU        UU  PP            GG        GG  RR     RR     AA        AA  DD        DD  EE
+               UU        UU  PP            GG        GG  RR      RR    AA        AA  DD       DD   EE
+              UUUUUUUUUUUU  PP            GGGGGGGGGGGG  RR       RR   AA        AA  DDDDDDDDDD    EEEEEEEEEEEE
+              UUUUUUUUUU   PP             GGGGGGGGGG   RR        RR  AA        AA  DDDDDDDDD     EEEEEEEEEEEE
+
+
+
+                    JJJJJJJJJJ   3333333333    2222222222    3333333333    2222222222                  AAAAAAAAAA
+                    JJJJJJJJJJ  333333333333  222222222222  333333333333  222222222222                AAAAAAAAAAAA
+                        JJ      33        33  22        22  33        33  22        22                AA        AA
+                        JJ                33            22            33            22                AA        AA
+                        JJ                33            22            33            22                AA        AA
+                        JJ             3333            22          3333            22                 AAAAAAAAAAAA
+                        JJ             3333          22            3333          22                   AAAAAAAAAAAA
+                        JJ                33       22                 33       22                     AA        AA
+                  JJ    JJ                33     22                   33     22                       AA        AA
+                  JJ    JJ      33        33   22           33        33   22                         AA        AA
+                  JJJJJJJJ      333333333333  222222222222  333333333333  222222222222                AA        AA
+                   JJJJJJ        3333333333   222222222222   3333333333   222222222222                AA        AA
+
+
+****A  START  JOB 3232  UPGRADE                         ROOM        9.55.42 AM 25 JAN 23  PRINTER1  SYS TK4-  JOB 3232  START  A****
+****A  START  JOB 3232  UPGRADE                         ROOM        9.55.42 AM 25 JAN 23  PRINTER1  SYS TK4-  JOB 3232  START  A****
+****A  START  JOB 3232  UPGRADE                         ROOM        9.55.42 AM 25 JAN 23  PRINTER1  SYS TK4-  JOB 3232  START  A****
+****A  START  JOB 3232  UPGRADE                         ROOM        9.55.42 AM 25 JAN 23  PRINTER1  SYS TK4-  JOB 3232  START  A****
+                                                J E S 2   J O B   L O G
+
+
+09.55.36 JOB 3232  $HASP373 UPGRADE  STARTED - INIT  1 - CLASS A - SYS TK4-
+09.55.36 JOB 3232  IEF403I UPGRADE - STARTED - TIME=09.55.36
+09.55.36 JOB 3232  IEFACTRT - Stepname  Procstep  Program   Retcode
+09.55.36 JOB 3232  UPGRADE    S0                  IEBGENER  RC= 0000
+09.55.36 JOB 3232  UPGRADE    S1                  IDCAMS    RC= 0004
+09.55.36 JOB 3232  UPGRADE    S2                  IEFBR14   RC= 0000
+09.55.37 JOB 3232  UPGRADE    S3                  IDCAMS    RC= 0004
+09.55.37 JOB 3232  UPGRADE    S4                  IEFBR14   RC= 0000
+09.55.37 JOB 3232  UPGRADE    S5                  IDCAMS    RC= 0000
+09.55.37 JOB 3232  UPGRADE    S6                  IEBCOPY   RC= 0000
+09.55.40 JOB 3232  UPGRADE    S7                  IEBCOPY   RC= 0000
+09.55.40 JOB 3232  UPGRADE    S8        IEBCOPY   IEBCOPY   RC= 0000
+09.55.40 JOB 3232  UPGRADE    S9        IEBCOPY   IEBCOPY   RC= 0000
+09.55.41 JOB 3232  UPGRADE    S10       IEBCOPY   IEBCOPY   RC= 0000
+09.55.41 JOB 3232  UPGRADE    S11       IEBCOPY   IEBCOPY   RC= 0000
+09.55.41 JOB 3232  UPGRADE    S12       IEBCOPY   IEBCOPY   RC= 0000
+09.55.41 JOB 3232  UPGRADE    S13       IEBCOPY   IEBCOPY   RC= 0000
+09.55.41 JOB 3232  UPGRADE    S14       IEBCOPY   IEBCOPY   RC= 0000
+09.55.41 JOB 3232  UPGRADE    S16       IEBCOPY   IEBCOPY   RC= 0000
+09.55.41 JOB 3232  UPGRADE    S17       IEBCOPY   IEBCOPY   RC= 0000
+09.55.42 JOB 3232  UPGRADE    S18                 IEBCOPY   RC= 0000
+09.55.42 JOB 3232  UPGRADE    S19                 IEBCOPY   RC= 0000
+09.55.42 JOB 3232  IEF404I UPGRADE - ENDED - TIME=09.55.42
+09.55.42 JOB 3232  $HASP395 UPGRADE  ENDED
+
+
+------ JES2 JOB STATISTICS ------
+
+
+ 25 JAN 23 JOB EXECUTION DATE
+
+
+       163 CARDS READ
+
+
+     1,990 SYSOUT PRINT RECORDS
+
+
+         0 SYSOUT PUNCH RECORDS
+
+
+      0.08 MINUTES EXECUTION TIME
+    1     //UPGRADE JOB 'ME',MSGCLASS=A,MSGLEVEL=(1,1),                           JOB 3232
+          //   USER=HERC01,PASSWORD=
+          *********************************************************************
+          ***                                          AAAAAAAAAAAA
+          ***                                          REMOVE SO JOB WILL RUN
+          ***
+          ***   UPGRADE MAP3270 ON A TK4- VERSION 8 SYSTEM WITH
+          ***      MAP3270 IS PRE-INSTALLED.  THIS JCL WILL UPGRADE ALL
+          ***      PIECES OF MAP3270.  NO USER MEMBERS WILL BE REPLACED.
+          ***
+          ***=====> WARNING - BEFORE RUNNING THIS JOB, PLEASE MAKE A   <=======
+          ***=====> BACKUP COPY OF YOUR HERCULES DASD FOLDER/DIRECTORY
+          ***=====> IN CASE OF JOB FAILURE.                            <=======
+          ***=====> POSSIBLE JOB FAILURES INCLUDE SPACE ISSUES (_37)   <=======
+          ***=====> ABENDS.                                            <=======
+          ***
+          ***
+          *** - MODULES ON SYS2.LINKLIB WILL BE REPLACED
+          *** - PROC MAP3270 ON SYS2.PROCLIB WILL BE REPLACE
+          *** - MEMBERS ON MAP3270. DATASETS THAT WERE ADDED BY THE USER
+          ***      WILL BE PRESERVED AS LONG AS THEY DO NOT HAVE THE SAME
+          ***      NAMES AS MAP3270 MEMBERS.  THIS JCL WILL MERGE THE
+          ***      CONTENTS FOR HERC01.MAP3270.* TO
+          ***                   MAP3270.*
+          *** - DATASETS MAP3270.PANEL5 AND MAP3270.SOURCE5 WILL BE
+          ***      CREATED IF THEY DON'T EXIST.
+          ***
+          *********************************************************************
+          //COPYPDS PROC TYPE=
+          //IEBCOPY EXEC PGM=IEBCOPY
+          //SYSPRINT DD SYSOUT=*
+          //IN     DD DSN=HERC01.MAP3270.&TYPE,DISP=SHR
+          //OUT    DD DSN=MAP3270.&TYPE,DISP=SHR
+          //SYSIN  DD DSN=&&COPYCNTL,DISP=(OLD,PASS)
+          // PEND
+    2     //S0  EXEC PGM=IEBGENER
+    3     //SYSPRINT DD SYSOUT=*
+    4     //SYSIN    DD DUMMY
+    5     //SYSUT2   DD DSN=&&COPYCNTL,DISP=(NEW,PASS),
+          //         UNIT=SYSDA,SPACE=(TRK,1),
+          //         DCB=(RECFM=F,LRECL=80,BLKSIZE=80)
+    6     //SYSUT1   DD *
+          *********************************************************************
+          ***
+          ***  CREATE THE PANEL5 AND SOURCE5 IF THEY DON'T EXIST ALREADY.
+          ***
+          *********************************************************************
+    7     //S1  EXEC  PGM=IDCAMS
+    8     //SYSPRINT DD SYSOUT=*
+    9     //SYSIN    DD *
+   10     //S2  EXEC PGM=IEFBR14,COND=(4,NE,S1)
+   11     //DD   DD  DSN=MAP3270.PANEL5,DISP=(NEW,CATLG,DELETE),
+          //         UNIT=SYSDA,VOL=REF=MAP3270.PANEL,
+          //         SPACE=(TRK,(10,10,10)),
+          //         DCB=(RECFM=FB,LRECL=132,BLKSIZE=3036)
+          ***
+   12     //S3  EXEC  PGM=IDCAMS
+   13     //SYSPRINT DD SYSOUT=*
+   14     //SYSIN    DD *
+   15     //S4  EXEC PGM=IEFBR14,COND=(4,NE,S3)
+   16     //DD   DD  DSN=MAP3270.SOURCE5,DISP=(NEW,CATLG,DELETE),
+          //         UNIT=SYSDA,VOL=REF=MAP3270.SOURCE,
+          //         SPACE=(TRK,(2,2,2)),
+          //         DCB=(RECFM=FB,LRECL=80,BLKSIZE=400)
+          ***
+          *********************************************************************
+          ***
+          ***   DELETE MAP3270 MODULES FROM SYS2.LINKLIB
+          ***
+          *********************************************************************
+          ***
+   17     //S5  EXEC  PGM=IDCAMS
+   18     //SYSPRINT DD SYSOUT=*
+   19     //SYSIN    DD *
+          *********************************************************************
+          ***
+          ***   COPY NEW MAP3270 MODULES TO SYS2.LINKLIB AND COMPRESS
+          ***
+          *********************************************************************
+          ***
+   20     //S6  EXEC PGM=IEBCOPY
+   21     //NEW     DD  DSN=HERC01.MAP3270.LOADLIB,DISP=SHR
+   22     //OLD     DD  DSN=SYS2.LINKLIB,DISP=SHR
+   23     //SYSPRINT DD SYSOUT=*
+   24     //SYSIN    DD *
+   25     //S7  EXEC PGM=IEBCOPY
+   26     //OLD     DD  DSN=SYS2.LINKLIB,DISP=SHR
+   27     //SYSPRINT DD SYSOUT=*
+   28     //SYSIN    DD *
+          *********************************************************************
+          ***
+          ***  S8 - MERGE THE NEW VERSIONS OF A DATASETS INTO THE OLD
+          ***  S17  VERSION OF THE DATASET TO ENSURE ANY MEMBERS THE USER
+          ***       MAY HAVE ADDED WILL NOT BE LOST.
+          ***
+          *********************************************************************
+   29     //S8  EXEC COPYPDS,TYPE=ASM
+   30     ++COPYPDS PROC TYPE=
+   31     ++IEBCOPY EXEC PGM=IEBCOPY
+   32     ++SYSPRINT DD SYSOUT=*
+   33     ++IN     DD DSN=HERC01.MAP3270.&TYPE,DISP=SHR
+   34     ++OUT    DD DSN=MAP3270.&TYPE,DISP=SHR
+   35     ++SYSIN  DD DSN=&&COPYCNTL,DISP=(OLD,PASS)
+   36     //S9  EXEC COPYPDS,TYPE=COB
+   37     ++COPYPDS PROC TYPE=
+   38     ++IEBCOPY EXEC PGM=IEBCOPY
+   39     ++SYSPRINT DD SYSOUT=*
+   40     ++IN     DD DSN=HERC01.MAP3270.&TYPE,DISP=SHR
+   41     ++OUT    DD DSN=MAP3270.&TYPE,DISP=SHR
+   42     ++SYSIN  DD DSN=&&COPYCNTL,DISP=(OLD,PASS)
+   43     //S10 EXEC COPYPDS,TYPE=PLI
+   44     ++COPYPDS PROC TYPE=
+   45     ++IEBCOPY EXEC PGM=IEBCOPY
+   46     ++SYSPRINT DD SYSOUT=*
+   47     ++IN     DD DSN=HERC01.MAP3270.&TYPE,DISP=SHR
+   48     ++OUT    DD DSN=MAP3270.&TYPE,DISP=SHR
+   49     ++SYSIN  DD DSN=&&COPYCNTL,DISP=(OLD,PASS)
+   50     //S11 EXEC COPYPDS,TYPE=MAP
+   51     ++COPYPDS PROC TYPE=
+   52     ++IEBCOPY EXEC PGM=IEBCOPY
+   53     ++SYSPRINT DD SYSOUT=*
+   54     ++IN     DD DSN=HERC01.MAP3270.&TYPE,DISP=SHR
+   55     ++OUT    DD DSN=MAP3270.&TYPE,DISP=SHR
+   56     ++SYSIN  DD DSN=&&COPYCNTL,DISP=(OLD,PASS)
+   57     //S12 EXEC COPYPDS,TYPE=PANEL
+   58     ++COPYPDS PROC TYPE=
+   59     ++IEBCOPY EXEC PGM=IEBCOPY
+   60     ++SYSPRINT DD SYSOUT=*
+   61     ++IN     DD DSN=HERC01.MAP3270.&TYPE,DISP=SHR
+   62     ++OUT    DD DSN=MAP3270.&TYPE,DISP=SHR
+   63     ++SYSIN  DD DSN=&&COPYCNTL,DISP=(OLD,PASS)
+   64     //S13 EXEC COPYPDS,TYPE=PANEL5
+   65     ++COPYPDS PROC TYPE=
+   66     ++IEBCOPY EXEC PGM=IEBCOPY
+   67     ++SYSPRINT DD SYSOUT=*
+   68     ++IN     DD DSN=HERC01.MAP3270.&TYPE,DISP=SHR
+   69     ++OUT    DD DSN=MAP3270.&TYPE,DISP=SHR
+   70     ++SYSIN  DD DSN=&&COPYCNTL,DISP=(OLD,PASS)
+   71     //S14 EXEC COPYPDS,TYPE=MACLIB
+          ***S15 EXEC COPYPDS,TYPE=CNTL
+   72     ++COPYPDS PROC TYPE=
+   73     ++IEBCOPY EXEC PGM=IEBCOPY
+   74     ++SYSPRINT DD SYSOUT=*
+   75     ++IN     DD DSN=HERC01.MAP3270.&TYPE,DISP=SHR
+   76     ++OUT    DD DSN=MAP3270.&TYPE,DISP=SHR
+   77     ++SYSIN  DD DSN=&&COPYCNTL,DISP=(OLD,PASS)
+   78     //S16 EXEC COPYPDS,TYPE=SOURCE
+   79     ++COPYPDS PROC TYPE=
+   80     ++IEBCOPY EXEC PGM=IEBCOPY
+   81     ++SYSPRINT DD SYSOUT=*
+   82     ++IN     DD DSN=HERC01.MAP3270.&TYPE,DISP=SHR
+   83     ++OUT    DD DSN=MAP3270.&TYPE,DISP=SHR
+   84     ++SYSIN  DD DSN=&&COPYCNTL,DISP=(OLD,PASS)
+   85     //S17 EXEC COPYPDS,TYPE=SOURCE5
+          *********************************************************************
+          ***
+          ***  S18 - COPY MODULES TO MAP3270.LOADLIB EXECPT FOR THOSE
+          ***       COPIED TO SYS2.LINKLIB
+          ***
+          *********************************************************************
+   86     ++COPYPDS PROC TYPE=
+   87     ++IEBCOPY EXEC PGM=IEBCOPY
+   88     ++SYSPRINT DD SYSOUT=*
+   89     ++IN     DD DSN=HERC01.MAP3270.&TYPE,DISP=SHR
+   90     ++OUT    DD DSN=MAP3270.&TYPE,DISP=SHR
+   91     ++SYSIN  DD DSN=&&COPYCNTL,DISP=(OLD,PASS)
+   92     //S18 EXEC PGM=IEBCOPY
+   93     //ILOAD   DD  DSN=HERC01.MAP3270.LOADLIB,DISP=SHR
+   94     //OLOAD   DD  DSN=MAP3270.LOADLIB,DISP=SHR
+   95     //SYSPRINT DD SYSOUT=*
+   96     //SYSIN    DD *
+          *********************************************************************
+          ***
+          ***  S19 - COPY PROC MAP3270 TO SYS2.PROCLIB
+          ***
+          *********************************************************************
+   97     //S19 EXEC PGM=IEBCOPY
+   98     //IPROC   DD  DSN=HERC01.MAP3270.CNTL,DISP=SHR
+   99     //OPROC   DD  DSN=SYS2.PROCLIB,DISP=SHR
+  100     //SYSPRINT DD SYSOUT=*
+  101     //SYSIN    DD *
+          ***
+ STMT NO. MESSAGE
+-
+   33     IEF653I SUBSTITUTION JCL - DSN=HERC01.MAP3270.ASM,DISP=SHR
+   34     IEF653I SUBSTITUTION JCL - DSN=MAP3270.ASM,DISP=SHR
+   40     IEF653I SUBSTITUTION JCL - DSN=HERC01.MAP3270.COB,DISP=SHR
+   41     IEF653I SUBSTITUTION JCL - DSN=MAP3270.COB,DISP=SHR
+   47     IEF653I SUBSTITUTION JCL - DSN=HERC01.MAP3270.PLI,DISP=SHR
+   48     IEF653I SUBSTITUTION JCL - DSN=MAP3270.PLI,DISP=SHR
+   54     IEF653I SUBSTITUTION JCL - DSN=HERC01.MAP3270.MAP,DISP=SHR
+   55     IEF653I SUBSTITUTION JCL - DSN=MAP3270.MAP,DISP=SHR
+   61     IEF653I SUBSTITUTION JCL - DSN=HERC01.MAP3270.PANEL,DISP=SHR
+   62     IEF653I SUBSTITUTION JCL - DSN=MAP3270.PANEL,DISP=SHR
+   68     IEF653I SUBSTITUTION JCL - DSN=HERC01.MAP3270.PANEL5,DISP=SHR
+   69     IEF653I SUBSTITUTION JCL - DSN=MAP3270.PANEL5,DISP=SHR
+   75     IEF653I SUBSTITUTION JCL - DSN=HERC01.MAP3270.MACLIB,DISP=SHR
+   76     IEF653I SUBSTITUTION JCL - DSN=MAP3270.MACLIB,DISP=SHR
+   82     IEF653I SUBSTITUTION JCL - DSN=HERC01.MAP3270.SOURCE,DISP=SHR
+   83     IEF653I SUBSTITUTION JCL - DSN=MAP3270.SOURCE,DISP=SHR
+   89     IEF653I SUBSTITUTION JCL - DSN=HERC01.MAP3270.SOURCE5,DISP=SHR
+   90     IEF653I SUBSTITUTION JCL - DSN=MAP3270.SOURCE5,DISP=SHR
+IEF236I ALLOC. FOR UPGRADE S0
+IEF237I JES2 ALLOCATED TO SYSPRINT
+IEF237I DMY  ALLOCATED TO SYSIN
+IEF237I 140  ALLOCATED TO SYSUT2
+IEF237I JES2 ALLOCATED TO SYSUT1
+IEF142I UPGRADE S0 - STEP WAS EXECUTED - COND CODE 0000
+IEF285I   JES2.JOB03232.SO0109                         SYSOUT
+IEF285I   SYS23025.T095536.RA000.UPGRADE.COPYCNTL      PASSED        *--------1
+IEF285I   VOL SER NOS= WORK00.
+IEF285I   JES2.JOB03232.SI0101                         SYSIN
+IEF373I STEP /S0      / START 23025.0955
+IEF374I STEP /S0      / STOP  23025.0955 CPU    0MIN 00.01SEC SRB    0MIN 00.00SEC VIRT    36K SYS   184K
+************************************************************************************************************************************
+*     1. Jobstep of job: UPGRADE     Stepname: S0          Program name: IEBGENER   Executed on 25.01.23 from 09.55.36 to 09.55.36 *
+*         elapsed time  00:00:00,03                      CPU-Identifier:  TK4-           Page-in:      0                           *
+*             CPU time  00:00:00,01               Virtual Storage used:     36K         Page-out:      0                           *
+*           corr. CPU:  00:00:00,01   CPU time has been corrected by  1 / 1,0  multiplier                                          *
+*                                                                                                                                  *
+*     I/O Operation                                                                                                                *
+*     Number of records read via DD * or DD DATA:      1                                                                           *
+*     DMY.......0 DMY.......0 140.......1 DMY.......0                                                                              *
+*                                                                                                                                  *
+*                                          Charge for step (w/o SYSOUT):          0,01                                             *
+************************************************************************************************************************************
+IEF236I ALLOC. FOR UPGRADE S1
+IEF237I JES2 ALLOCATED TO SYSPRINT
+IEF237I JES2 ALLOCATED TO SYSIN
+IEF237I 191  ALLOCATED TO SYS00001
+IEF142I UPGRADE S1 - STEP WAS EXECUTED - COND CODE 0004
+IEF285I   JES2.JOB03232.SO0110                         SYSOUT
+IEF285I   JES2.JOB03232.SI0102                         SYSIN
+IEF285I   SYS1.UCAT.MVS                                KEPT          *--------0
+IEF285I   VOL SER NOS= MVSCAT.
+IEF373I STEP /S1      / START 23025.0955
+IEF374I STEP /S1      / STOP  23025.0955 CPU    0MIN 00.03SEC SRB    0MIN 00.00SEC VIRT   240K SYS   256K
+************************************************************************************************************************************
+*     2. Jobstep of job: UPGRADE     Stepname: S1          Program name: IDCAMS     Executed on 25.01.23 from 09.55.36 to 09.55.36 *
+*         elapsed time  00:00:00,05                      CPU-Identifier:  TK4-           Page-in:      0                           *
+*             CPU time  00:00:00,03               Virtual Storage used:    240K         Page-out:      0                           *
+*           corr. CPU:  00:00:00,03   CPU time has been corrected by  1 / 1,0  multiplier                                          *
+*                                                                                                                                  *
+*     I/O Operation                                                                                                                *
+*     Number of records read via DD * or DD DATA:      1                                                                           *
+*     DMY.......0 DMY.......0 191.......0                                                                                          *
+*                                                                                                                                  *
+*                                          Charge for step (w/o SYSOUT):          0,05                                             *
+************************************************************************************************************************************
+IEF236I ALLOC. FOR UPGRADE S2
+IEF237I 280  ALLOCATED TO DD
+IEF237I 191  ALLOCATED TO SYS00053
+IEF142I UPGRADE S2 - STEP WAS EXECUTED - COND CODE 0000
+IEF285I   MAP3270.PANEL5                               CATALOGED     *--------0
+IEF285I   VOL SER NOS= PUB002.
+IEF285I   SYS1.UCAT.MVS                                KEPT          *--------0
+IEF285I   VOL SER NOS= MVSCAT.
+IEF373I STEP /S2      / START 23025.0955
+IEF374I STEP /S2      / STOP  23025.0955 CPU    0MIN 00.00SEC SRB    0MIN 00.00SEC VIRT     4K SYS   176K
+IEF236I ALLOC. FOR UPGRADE S3
+IEF237I JES2 ALLOCATED TO SYSPRINT
+IEF237I JES2 ALLOCATED TO SYSIN
+IEF237I 191  ALLOCATED TO SYS00002
+IEF142I UPGRADE S3 - STEP WAS EXECUTED - COND CODE 0004
+IEF285I   JES2.JOB03232.SO0111                         SYSOUT
+IEF285I   JES2.JOB03232.SI0103                         SYSIN
+IEF285I   SYS1.UCAT.MVS                                KEPT          *--------0
+IEF285I   VOL SER NOS= MVSCAT.
+IEF373I STEP /S3      / START 23025.0955
+IEF374I STEP /S3      / STOP  23025.0955 CPU    0MIN 00.03SEC SRB    0MIN 00.00SEC VIRT   240K SYS   256K
+************************************************************************************************************************************
+*     4. Jobstep of job: UPGRADE     Stepname: S3          Program name: IDCAMS     Executed on 25.01.23 from 09.55.36 to 09.55.37 *
+*         elapsed time  00:00:00,05                      CPU-Identifier:  TK4-           Page-in:      0                           *
+*             CPU time  00:00:00,03               Virtual Storage used:    240K         Page-out:      0                           *
+*           corr. CPU:  00:00:00,03   CPU time has been corrected by  1 / 1,0  multiplier                                          *
+*                                                                                                                                  *
+*     I/O Operation                                                                                                                *
+*     Number of records read via DD * or DD DATA:      1                                                                           *
+*     DMY.......0 DMY.......0 191.......0                                                                                          *
+*                                                                                                                                  *
+*                                          Charge for step (w/o SYSOUT):          0,05                                             *
+************************************************************************************************************************************
+IEF236I ALLOC. FOR UPGRADE S4
+IEF237I 280  ALLOCATED TO DD
+IEF237I 191  ALLOCATED TO SYS00055
+IEF142I UPGRADE S4 - STEP WAS EXECUTED - COND CODE 0000
+IEF285I   MAP3270.SOURCE5                              CATALOGED     *--------0
+IEF285I   VOL SER NOS= PUB002.
+IEF285I   SYS1.UCAT.MVS                                KEPT          *--------0
+IEF285I   VOL SER NOS= MVSCAT.
+IEF373I STEP /S4      / START 23025.0955
+IEF374I STEP /S4      / STOP  23025.0955 CPU    0MIN 00.00SEC SRB    0MIN 00.00SEC VIRT     4K SYS   176K
+IEF236I ALLOC. FOR UPGRADE S5
+IEF237I JES2 ALLOCATED TO SYSPRINT
+IEF237I JES2 ALLOCATED TO SYSIN
+IEF237I 240  ALLOCATED TO SYS00003
+IEF285I   SYS2.LINKLIB                                 KEPT          *-------12
+IEF285I   VOL SER NOS= PUB000.
+IEF237I 240  ALLOCATED TO SYS00004
+IEF285I   SYS2.LINKLIB                                 KEPT          *--------1
+IEF285I   VOL SER NOS= PUB000.
+IEF237I 240  ALLOCATED TO SYS00005
+IEF285I   SYS2.LINKLIB                                 KEPT          *--------3
+IEF285I   VOL SER NOS= PUB000.
+IEF237I 240  ALLOCATED TO SYS00006
+IEF285I   SYS2.LINKLIB                                 KEPT          *--------3
+IEF285I   VOL SER NOS= PUB000.
+IEF237I 240  ALLOCATED TO SYS00007
+IEF285I   SYS2.LINKLIB                                 KEPT          *--------3
+IEF285I   VOL SER NOS= PUB000.
+IEF237I 240  ALLOCATED TO SYS00008
+IEF285I   SYS2.LINKLIB                                 KEPT          *--------3
+IEF285I   VOL SER NOS= PUB000.
+IEF237I 240  ALLOCATED TO SYS00009
+IEF285I   SYS2.LINKLIB                                 KEPT          *--------3
+IEF285I   VOL SER NOS= PUB000.
+IEF237I 240  ALLOCATED TO SYS00010
+IEF285I   SYS2.LINKLIB                                 KEPT          *--------1
+IEF285I   VOL SER NOS= PUB000.
+IEF237I 240  ALLOCATED TO SYS00011
+IEF285I   SYS2.LINKLIB                                 KEPT          *--------1
+IEF285I   VOL SER NOS= PUB000.
+IEF142I UPGRADE S5 - STEP WAS EXECUTED - COND CODE 0000
+IEF285I   JES2.JOB03232.SO0112                         SYSOUT
+IEF285I   JES2.JOB03232.SI0104                         SYSIN
+IEF373I STEP /S5      / START 23025.0955
+IEF374I STEP /S5      / STOP  23025.0955 CPU    0MIN 00.09SEC SRB    0MIN 00.01SEC VIRT   196K SYS   244K
+************************************************************************************************************************************
+*     6. Jobstep of job: UPGRADE     Stepname: S5          Program name: IDCAMS     Executed on 25.01.23 from 09.55.37 to 09.55.37 *
+*         elapsed time  00:00:00,14                      CPU-Identifier:  TK4-           Page-in:      0                           *
+*             CPU time  00:00:00,10               Virtual Storage used:    196K         Page-out:      0                           *
+*           corr. CPU:  00:00:00,10   CPU time has been corrected by  1 / 1,0  multiplier                                          *
+*                                                                                                                                  *
+*     I/O Operation                                                                                                                *
+*     Number of records read via DD * or DD DATA:     12                                                                           *
+*     DMY.......0 DMY.......0                                                                                                      *
+*                                                                                                                                  *
+*                                          Charge for step (w/o SYSOUT):          0,16                                             *
+************************************************************************************************************************************
+IEF236I ALLOC. FOR UPGRADE S6
+IEF237I 280  ALLOCATED TO NEW
+IEF237I 240  ALLOCATED TO SYS00057
+IEF237I 240  ALLOCATED TO OLD
+IEF237I JES2 ALLOCATED TO SYSPRINT
+IEF237I JES2 ALLOCATED TO SYSIN
+IEF142I UPGRADE S6 - STEP WAS EXECUTED - COND CODE 0000
+IEF285I   HERC01.MAP3270.LOADLIB                       KEPT          *------117
+IEF285I   VOL SER NOS= PUB002.
+IEF285I   SYS1.UCAT.TSO                                KEPT          *--------0
+IEF285I   VOL SER NOS= PUB000.
+IEF285I   SYS2.LINKLIB                                 KEPT          *--------4
+IEF285I   VOL SER NOS= PUB000.
+IEF285I   JES2.JOB03232.SO0113                         SYSOUT
+IEF285I   JES2.JOB03232.SI0105                         SYSIN
+IEF373I STEP /S6      / START 23025.0955
+IEF374I STEP /S6      / STOP  23025.0955 CPU    0MIN 00.03SEC SRB    0MIN 00.01SEC VIRT   768K SYS   196K
+************************************************************************************************************************************
+*     7. Jobstep of job: UPGRADE     Stepname: S6          Program name: IEBCOPY    Executed on 25.01.23 from 09.55.37 to 09.55.37 *
+*         elapsed time  00:00:00,09                      CPU-Identifier:  TK4-           Page-in:      0                           *
+*             CPU time  00:00:00,04               Virtual Storage used:    768K         Page-out:      0                           *
+*           corr. CPU:  00:00:00,04   CPU time has been corrected by  1 / 1,0  multiplier                                          *
+*                                                                                                                                  *
+*     I/O Operation                                                                                                                *
+*     Number of records read via DD * or DD DATA:      8                                                                           *
+*     280.....117 240.......0 240.......4 DMY.......0 DMY.......0                                                                  *
+*                                                                                                                                  *
+*                                          Charge for step (w/o SYSOUT):          0,06                                             *
+************************************************************************************************************************************
+IEF236I ALLOC. FOR UPGRADE S7
+IEF237I 240  ALLOCATED TO OLD
+IEF237I JES2 ALLOCATED TO SYSPRINT
+IEF237I JES2 ALLOCATED TO SYSIN
+IEF142I UPGRADE S7 - STEP WAS EXECUTED - COND CODE 0000
+IEF285I   SYS2.LINKLIB                                 KEPT          *---10,132
+IEF285I   VOL SER NOS= PUB000.
+IEF285I   JES2.JOB03232.SO0114                         SYSOUT
+IEF285I   JES2.JOB03232.SI0106                         SYSIN
+IEF373I STEP /S7      / START 23025.0955
+IEF374I STEP /S7      / STOP  23025.0955 CPU    0MIN 01.25SEC SRB    0MIN 00.51SEC VIRT   768K SYS   196K
+************************************************************************************************************************************
+*     8. Jobstep of job: UPGRADE     Stepname: S7          Program name: IEBCOPY    Executed on 25.01.23 from 09.55.37 to 09.55.40 *
+*         elapsed time  00:00:03,30                      CPU-Identifier:  TK4-           Page-in:      0                           *
+*             CPU time  00:00:01,76               Virtual Storage used:    768K         Page-out:      0                           *
+*           corr. CPU:  00:00:01,76   CPU time has been corrected by  1 / 1,0  multiplier                                          *
+*                                                                                                                                  *
+*     I/O Operation                                                                                                                *
+*     Number of records read via DD * or DD DATA:      1                                                                           *
+*     240...10132 DMY.......0 DMY.......0                                                                                          *
+*                                                                                                                                  *
+*                                          Charge for step (w/o SYSOUT):          2,93                                             *
+************************************************************************************************************************************
+IEF236I ALLOC. FOR UPGRADE IEBCOPY S8
+IEF237I JES2 ALLOCATED TO SYSPRINT
+IEF237I 280  ALLOCATED TO IN
+IEF237I 240  ALLOCATED TO SYS00059
+IEF237I 280  ALLOCATED TO OUT
+IEF237I 191  ALLOCATED TO SYS00061
+IEF237I 140  ALLOCATED TO SYSIN
+IEF142I UPGRADE IEBCOPY S8 - STEP WAS EXECUTED - COND CODE 0000
+IEF285I   JES2.JOB03232.SO0115                         SYSOUT
+IEF285I   HERC01.MAP3270.ASM                           KEPT          *-------42
+IEF285I   VOL SER NOS= PUB002.
+IEF285I   SYS1.UCAT.TSO                                KEPT          *--------0
+IEF285I   VOL SER NOS= PUB000.
+IEF285I   MAP3270.ASM                                  KEPT          *--------3
+IEF285I   VOL SER NOS= PUB002.
+IEF285I   SYS1.UCAT.MVS                                KEPT          *--------0
+IEF285I   VOL SER NOS= MVSCAT.
+IEF285I   SYS23025.T095536.RA000.UPGRADE.COPYCNTL      PASSED        *--------2
+IEF285I   VOL SER NOS= WORK00.
+IEF373I STEP /IEBCOPY / START 23025.0955
+IEF374I STEP /IEBCOPY / STOP  23025.0955 CPU    0MIN 00.02SEC SRB    0MIN 00.00SEC VIRT   768K SYS   196K
+************************************************************************************************************************************
+*     9. Jobstep of job: UPGRADE     Stepname: IEBCOPY     Program name: IEBCOPY    Executed on 25.01.23 from 09.55.40 to 09.55.40 *
+*         elapsed time  00:00:00,10                      CPU-Identifier:  TK4-           Page-in:      0                           *
+*             CPU time  00:00:00,02               Virtual Storage used:    768K         Page-out:      0                           *
+*           corr. CPU:  00:00:00,02   CPU time has been corrected by  1 / 1,0  multiplier                                          *
+*                                                                                                                                  *
+*     I/O Operation                                                                                                                *
+*     Number of records read via DD * or DD DATA:      0                                                                           *
+*     DMY.......0 280......42 240.......0 280.......3 191.......0 140.......2                                                      *
+*                                                                                                                                  *
+*                                          Charge for step (w/o SYSOUT):          0,03                                             *
+************************************************************************************************************************************
+IEF236I ALLOC. FOR UPGRADE IEBCOPY S9
+IEF237I JES2 ALLOCATED TO SYSPRINT
+IEF237I 280  ALLOCATED TO IN
+IEF237I 240  ALLOCATED TO SYS00063
+IEF237I 280  ALLOCATED TO OUT
+IEF237I 191  ALLOCATED TO SYS00065
+IEF237I 140  ALLOCATED TO SYSIN
+IEF142I UPGRADE IEBCOPY S9 - STEP WAS EXECUTED - COND CODE 0000
+IEF285I   JES2.JOB03232.SO0116                         SYSOUT
+IEF285I   HERC01.MAP3270.COB                           KEPT          *-------53
+IEF285I   VOL SER NOS= PUB002.
+IEF285I   SYS1.UCAT.TSO                                KEPT          *--------0
+IEF285I   VOL SER NOS= PUB000.
+IEF285I   MAP3270.COB                                  KEPT          *--------3
+IEF285I   VOL SER NOS= PUB002.
+IEF285I   SYS1.UCAT.MVS                                KEPT          *--------0
+IEF285I   VOL SER NOS= MVSCAT.
+IEF285I   SYS23025.T095536.RA000.UPGRADE.COPYCNTL      PASSED        *--------2
+IEF285I   VOL SER NOS= WORK00.
+IEF373I STEP /IEBCOPY / START 23025.0955
+IEF374I STEP /IEBCOPY / STOP  23025.0955 CPU    0MIN 00.03SEC SRB    0MIN 00.01SEC VIRT   768K SYS   192K
+************************************************************************************************************************************
+*    10. Jobstep of job: UPGRADE     Stepname: IEBCOPY     Program name: IEBCOPY    Executed on 25.01.23 from 09.55.40 to 09.55.40 *
+*         elapsed time  00:00:00,09                      CPU-Identifier:  TK4-           Page-in:      2                           *
+*             CPU time  00:00:00,04               Virtual Storage used:    768K         Page-out:      0                           *
+*           corr. CPU:  00:00:00,04   CPU time has been corrected by  1 / 1,0  multiplier                                          *
+*                                                                                                                                  *
+*     I/O Operation                                                                                                                *
+*     Number of records read via DD * or DD DATA:      0                                                                           *
+*     DMY.......0 280......53 240.......0 280.......3 191.......0 140.......2                                                      *
+*                                                                                                                                  *
+*                                          Charge for step (w/o SYSOUT):          0,06                                             *
+************************************************************************************************************************************
+IEF236I ALLOC. FOR UPGRADE IEBCOPY S10
+IEF237I JES2 ALLOCATED TO SYSPRINT
+IEF237I 280  ALLOCATED TO IN
+IEF237I 240  ALLOCATED TO SYS00067
+IEF237I 280  ALLOCATED TO OUT
+IEF237I 191  ALLOCATED TO SYS00069
+IEF237I 140  ALLOCATED TO SYSIN
+IEF142I UPGRADE IEBCOPY S10 - STEP WAS EXECUTED - COND CODE 0000
+IEF285I   JES2.JOB03232.SO0117                         SYSOUT
+IEF285I   HERC01.MAP3270.PLI                           KEPT          *------266
+IEF285I   VOL SER NOS= PUB002.
+IEF285I   SYS1.UCAT.TSO                                KEPT          *--------0
+IEF285I   VOL SER NOS= PUB000.
+IEF285I   MAP3270.PLI                                  KEPT          *--------3
+IEF285I   VOL SER NOS= PUB002.
+IEF285I   SYS1.UCAT.MVS                                KEPT          *--------0
+IEF285I   VOL SER NOS= MVSCAT.
+IEF285I   SYS23025.T095536.RA000.UPGRADE.COPYCNTL      PASSED        *--------2
+IEF285I   VOL SER NOS= WORK00.
+IEF373I STEP /IEBCOPY / START 23025.0955
+IEF374I STEP /IEBCOPY / STOP  23025.0955 CPU    0MIN 00.06SEC SRB    0MIN 00.02SEC VIRT   768K SYS   236K
+************************************************************************************************************************************
+*    11. Jobstep of job: UPGRADE     Stepname: IEBCOPY     Program name: IEBCOPY    Executed on 25.01.23 from 09.55.40 to 09.55.41 *
+*         elapsed time  00:00:00,19                      CPU-Identifier:  TK4-           Page-in:      0                           *
+*             CPU time  00:00:00,08               Virtual Storage used:    768K         Page-out:      0                           *
+*           corr. CPU:  00:00:00,08   CPU time has been corrected by  1 / 1,0  multiplier                                          *
+*                                                                                                                                  *
+*     I/O Operation                                                                                                                *
+*     Number of records read via DD * or DD DATA:      0                                                                           *
+*     DMY.......0 280.....266 240.......0 280.......3 191.......0 140.......2                                                      *
+*                                                                                                                                  *
+*                                          Charge for step (w/o SYSOUT):          0,13                                             *
+************************************************************************************************************************************
+IEF236I ALLOC. FOR UPGRADE IEBCOPY S11
+IEF237I JES2 ALLOCATED TO SYSPRINT
+IEF237I 280  ALLOCATED TO IN
+IEF237I 240  ALLOCATED TO SYS00071
+IEF237I 280  ALLOCATED TO OUT
+IEF237I 191  ALLOCATED TO SYS00073
+IEF237I 140  ALLOCATED TO SYSIN
+IEF142I UPGRADE IEBCOPY S11 - STEP WAS EXECUTED - COND CODE 0000
+IEF285I   JES2.JOB03232.SO0118                         SYSOUT
+IEF285I   HERC01.MAP3270.MAP                           KEPT          *-------75
+IEF285I   VOL SER NOS= PUB002.
+IEF285I   SYS1.UCAT.TSO                                KEPT          *--------0
+IEF285I   VOL SER NOS= PUB000.
+IEF285I   MAP3270.MAP                                  KEPT          *--------4
+IEF285I   VOL SER NOS= PUB002.
+IEF285I   SYS1.UCAT.MVS                                KEPT          *--------0
+IEF285I   VOL SER NOS= MVSCAT.
+IEF285I   SYS23025.T095536.RA000.UPGRADE.COPYCNTL      PASSED        *--------2
+IEF285I   VOL SER NOS= WORK00.
+IEF373I STEP /IEBCOPY / START 23025.0955
+IEF374I STEP /IEBCOPY / STOP  23025.0955 CPU    0MIN 00.03SEC SRB    0MIN 00.01SEC VIRT   768K SYS   236K
+************************************************************************************************************************************
+*    12. Jobstep of job: UPGRADE     Stepname: IEBCOPY     Program name: IEBCOPY    Executed on 25.01.23 from 09.55.41 to 09.55.41 *
+*         elapsed time  00:00:00,11                      CPU-Identifier:  TK4-           Page-in:      0                           *
+*             CPU time  00:00:00,04               Virtual Storage used:    768K         Page-out:      0                           *
+*           corr. CPU:  00:00:00,04   CPU time has been corrected by  1 / 1,0  multiplier                                          *
+*                                                                                                                                  *
+*     I/O Operation                                                                                                                *
+*     Number of records read via DD * or DD DATA:      0                                                                           *
+*     DMY.......0 280......75 240.......0 280.......4 191.......0 140.......2                                                      *
+*                                                                                                                                  *
+*                                          Charge for step (w/o SYSOUT):          0,06                                             *
+************************************************************************************************************************************
+IEF236I ALLOC. FOR UPGRADE IEBCOPY S12
+IEF237I JES2 ALLOCATED TO SYSPRINT
+IEF237I 280  ALLOCATED TO IN
+IEF237I 240  ALLOCATED TO SYS00075
+IEF237I 280  ALLOCATED TO OUT
+IEF237I 191  ALLOCATED TO SYS00077
+IEF237I 140  ALLOCATED TO SYSIN
+IEF142I UPGRADE IEBCOPY S12 - STEP WAS EXECUTED - COND CODE 0000
+IEF285I   JES2.JOB03232.SO0119                         SYSOUT
+IEF285I   HERC01.MAP3270.PANEL                         KEPT          *-------16
+IEF285I   VOL SER NOS= PUB002.
+IEF285I   SYS1.UCAT.TSO                                KEPT          *--------0
+IEF285I   VOL SER NOS= PUB000.
+IEF285I   MAP3270.PANEL                                KEPT          *--------3
+IEF285I   VOL SER NOS= PUB002.
+IEF285I   SYS1.UCAT.MVS                                KEPT          *--------0
+IEF285I   VOL SER NOS= MVSCAT.
+IEF285I   SYS23025.T095536.RA000.UPGRADE.COPYCNTL      PASSED        *--------2
+IEF285I   VOL SER NOS= WORK00.
+IEF373I STEP /IEBCOPY / START 23025.0955
+IEF374I STEP /IEBCOPY / STOP  23025.0955 CPU    0MIN 00.02SEC SRB    0MIN 00.00SEC VIRT   768K SYS   236K
+************************************************************************************************************************************
+*    13. Jobstep of job: UPGRADE     Stepname: IEBCOPY     Program name: IEBCOPY    Executed on 25.01.23 from 09.55.41 to 09.55.41 *
+*         elapsed time  00:00:00,09                      CPU-Identifier:  TK4-           Page-in:      0                           *
+*             CPU time  00:00:00,02               Virtual Storage used:    768K         Page-out:      0                           *
+*           corr. CPU:  00:00:00,02   CPU time has been corrected by  1 / 1,0  multiplier                                          *
+*                                                                                                                                  *
+*     I/O Operation                                                                                                                *
+*     Number of records read via DD * or DD DATA:      0                                                                           *
+*     DMY.......0 280......16 240.......0 280.......3 191.......0 140.......2                                                      *
+*                                                                                                                                  *
+*                                          Charge for step (w/o SYSOUT):          0,03                                             *
+************************************************************************************************************************************
+IEF236I ALLOC. FOR UPGRADE IEBCOPY S13
+IEF237I JES2 ALLOCATED TO SYSPRINT
+IEF237I 280  ALLOCATED TO IN
+IEF237I 240  ALLOCATED TO SYS00079
+IEF237I 280  ALLOCATED TO OUT
+IEF237I 191  ALLOCATED TO SYS00081
+IEF237I 140  ALLOCATED TO SYSIN
+IEF142I UPGRADE IEBCOPY S13 - STEP WAS EXECUTED - COND CODE 0000
+IEF285I   JES2.JOB03232.SO0120                         SYSOUT
+IEF285I   HERC01.MAP3270.PANEL5                        KEPT          *-------19
+IEF285I   VOL SER NOS= PUB002.
+IEF285I   SYS1.UCAT.TSO                                KEPT          *--------0
+IEF285I   VOL SER NOS= PUB000.
+IEF285I   MAP3270.PANEL5                               KEPT          *--------6
+IEF285I   VOL SER NOS= PUB002.
+IEF285I   SYS1.UCAT.MVS                                KEPT          *--------0
+IEF285I   VOL SER NOS= MVSCAT.
+IEF285I   SYS23025.T095536.RA000.UPGRADE.COPYCNTL      PASSED        *--------2
+IEF285I   VOL SER NOS= WORK00.
+IEF373I STEP /IEBCOPY / START 23025.0955
+IEF374I STEP /IEBCOPY / STOP  23025.0955 CPU    0MIN 00.02SEC SRB    0MIN 00.00SEC VIRT   768K SYS   240K
+************************************************************************************************************************************
+*    14. Jobstep of job: UPGRADE     Stepname: IEBCOPY     Program name: IEBCOPY    Executed on 25.01.23 from 09.55.41 to 09.55.41 *
+*         elapsed time  00:00:00,09                      CPU-Identifier:  TK4-           Page-in:      0                           *
+*             CPU time  00:00:00,02               Virtual Storage used:    768K         Page-out:      0                           *
+*           corr. CPU:  00:00:00,02   CPU time has been corrected by  1 / 1,0  multiplier                                          *
+*                                                                                                                                  *
+*     I/O Operation                                                                                                                *
+*     Number of records read via DD * or DD DATA:      0                                                                           *
+*     DMY.......0 280......19 240.......0 280.......6 191.......0 140.......2                                                      *
+*                                                                                                                                  *
+*                                          Charge for step (w/o SYSOUT):          0,03                                             *
+************************************************************************************************************************************
+IEF236I ALLOC. FOR UPGRADE IEBCOPY S14
+IEF237I JES2 ALLOCATED TO SYSPRINT
+IEF237I 280  ALLOCATED TO IN
+IEF237I 240  ALLOCATED TO SYS00083
+IEF237I 280  ALLOCATED TO OUT
+IEF237I 191  ALLOCATED TO SYS00085
+IEF237I 140  ALLOCATED TO SYSIN
+IEF142I UPGRADE IEBCOPY S14 - STEP WAS EXECUTED - COND CODE 0000
+IEF285I   JES2.JOB03232.SO0121                         SYSOUT
+IEF285I   HERC01.MAP3270.MACLIB                        KEPT          *-------24
+IEF285I   VOL SER NOS= PUB002.
+IEF285I   SYS1.UCAT.TSO                                KEPT          *--------0
+IEF285I   VOL SER NOS= PUB000.
+IEF285I   MAP3270.MACLIB                               KEPT          *--------3
+IEF285I   VOL SER NOS= PUB002.
+IEF285I   SYS1.UCAT.MVS                                KEPT          *--------0
+IEF285I   VOL SER NOS= MVSCAT.
+IEF285I   SYS23025.T095536.RA000.UPGRADE.COPYCNTL      PASSED        *--------2
+IEF285I   VOL SER NOS= WORK00.
+IEF373I STEP /IEBCOPY / START 23025.0955
+IEF374I STEP /IEBCOPY / STOP  23025.0955 CPU    0MIN 00.02SEC SRB    0MIN 00.00SEC VIRT   768K SYS   240K
+************************************************************************************************************************************
+*    15. Jobstep of job: UPGRADE     Stepname: IEBCOPY     Program name: IEBCOPY    Executed on 25.01.23 from 09.55.41 to 09.55.41 *
+*         elapsed time  00:00:00,10                      CPU-Identifier:  TK4-           Page-in:      0                           *
+*             CPU time  00:00:00,02               Virtual Storage used:    768K         Page-out:      0                           *
+*           corr. CPU:  00:00:00,02   CPU time has been corrected by  1 / 1,0  multiplier                                          *
+*                                                                                                                                  *
+*     I/O Operation                                                                                                                *
+*     Number of records read via DD * or DD DATA:      0                                                                           *
+*     DMY.......0 280......24 240.......0 280.......3 191.......0 140.......2                                                      *
+*                                                                                                                                  *
+*                                          Charge for step (w/o SYSOUT):          0,03                                             *
+************************************************************************************************************************************
+IEF236I ALLOC. FOR UPGRADE IEBCOPY S16
+IEF237I JES2 ALLOCATED TO SYSPRINT
+IEF237I 280  ALLOCATED TO IN
+IEF237I 240  ALLOCATED TO SYS00087
+IEF237I 280  ALLOCATED TO OUT
+IEF237I 191  ALLOCATED TO SYS00089
+IEF237I 140  ALLOCATED TO SYSIN
+IEF142I UPGRADE IEBCOPY S16 - STEP WAS EXECUTED - COND CODE 0000
+IEF285I   JES2.JOB03232.SO0122                         SYSOUT
+IEF285I   HERC01.MAP3270.SOURCE                        KEPT          *------785
+IEF285I   VOL SER NOS= PUB002.
+IEF285I   SYS1.UCAT.TSO                                KEPT          *--------0
+IEF285I   VOL SER NOS= PUB000.
+IEF285I   MAP3270.SOURCE                               KEPT          *-------19
+IEF285I   VOL SER NOS= PUB002.
+IEF285I   SYS1.UCAT.MVS                                KEPT          *--------0
+IEF285I   VOL SER NOS= MVSCAT.
+IEF285I   SYS23025.T095536.RA000.UPGRADE.COPYCNTL      PASSED        *--------2
+IEF285I   VOL SER NOS= WORK00.
+IEF373I STEP /IEBCOPY / START 23025.0955
+IEF374I STEP /IEBCOPY / STOP  23025.0955 CPU    0MIN 00.15SEC SRB    0MIN 00.05SEC VIRT   768K SYS   240K
+************************************************************************************************************************************
+*    16. Jobstep of job: UPGRADE     Stepname: IEBCOPY     Program name: IEBCOPY    Executed on 25.01.23 from 09.55.41 to 09.55.41 *
+*         elapsed time  00:00:00,42                      CPU-Identifier:  TK4-           Page-in:      0                           *
+*             CPU time  00:00:00,20               Virtual Storage used:    768K         Page-out:      0                           *
+*           corr. CPU:  00:00:00,20   CPU time has been corrected by  1 / 1,0  multiplier                                          *
+*                                                                                                                                  *
+*     I/O Operation                                                                                                                *
+*     Number of records read via DD * or DD DATA:      0                                                                           *
+*     DMY.......0 280.....785 240.......0 280......19 191.......0 140.......2                                                      *
+*                                                                                                                                  *
+*                                          Charge for step (w/o SYSOUT):          0,33                                             *
+************************************************************************************************************************************
+IEF236I ALLOC. FOR UPGRADE IEBCOPY S17
+IEF237I JES2 ALLOCATED TO SYSPRINT
+IEF237I 280  ALLOCATED TO IN
+IEF237I 240  ALLOCATED TO SYS00091
+IEF237I 280  ALLOCATED TO OUT
+IEF237I 191  ALLOCATED TO SYS00093
+IEF237I 140  ALLOCATED TO SYSIN
+IEF142I UPGRADE IEBCOPY S17 - STEP WAS EXECUTED - COND CODE 0000
+IEF285I   JES2.JOB03232.SO0123                         SYSOUT
+IEF285I   HERC01.MAP3270.SOURCE5                       KEPT          *--------7
+IEF285I   VOL SER NOS= PUB002.
+IEF285I   SYS1.UCAT.TSO                                KEPT          *--------0
+IEF285I   VOL SER NOS= PUB000.
+IEF285I   MAP3270.SOURCE5                              KEPT          *--------3
+IEF285I   VOL SER NOS= PUB002.
+IEF285I   SYS1.UCAT.MVS                                KEPT          *--------0
+IEF285I   VOL SER NOS= MVSCAT.
+IEF285I   SYS23025.T095536.RA000.UPGRADE.COPYCNTL      PASSED        *--------2
+IEF285I   VOL SER NOS= WORK00.
+IEF373I STEP /IEBCOPY / START 23025.0955
+IEF374I STEP /IEBCOPY / STOP  23025.0955 CPU    0MIN 00.02SEC SRB    0MIN 00.00SEC VIRT   768K SYS   244K
+************************************************************************************************************************************
+*    17. Jobstep of job: UPGRADE     Stepname: IEBCOPY     Program name: IEBCOPY    Executed on 25.01.23 from 09.55.41 to 09.55.41 *
+*         elapsed time  00:00:00,09                      CPU-Identifier:  TK4-           Page-in:      0                           *
+*             CPU time  00:00:00,02               Virtual Storage used:    768K         Page-out:      0                           *
+*           corr. CPU:  00:00:00,02   CPU time has been corrected by  1 / 1,0  multiplier                                          *
+*                                                                                                                                  *
+*     I/O Operation                                                                                                                *
+*     Number of records read via DD * or DD DATA:      0                                                                           *
+*     DMY.......0 280.......7 240.......0 280.......3 191.......0 140.......2                                                      *
+*                                                                                                                                  *
+*                                          Charge for step (w/o SYSOUT):          0,03                                             *
+************************************************************************************************************************************
+IEF236I ALLOC. FOR UPGRADE S18
+IEF237I 280  ALLOCATED TO ILOAD
+IEF237I 240  ALLOCATED TO SYS00095
+IEF237I 280  ALLOCATED TO OLOAD
+IEF237I 191  ALLOCATED TO SYS00097
+IEF237I JES2 ALLOCATED TO SYSPRINT
+IEF237I JES2 ALLOCATED TO SYSIN
+IEF142I UPGRADE S18 - STEP WAS EXECUTED - COND CODE 0000
+IEF285I   HERC01.MAP3270.LOADLIB                       KEPT          *------235
+IEF285I   VOL SER NOS= PUB002.
+IEF285I   SYS1.UCAT.TSO                                KEPT          *--------0
+IEF285I   VOL SER NOS= PUB000.
+IEF285I   MAP3270.LOADLIB                              KEPT          *--------3
+IEF285I   VOL SER NOS= PUB002.
+IEF285I   SYS1.UCAT.MVS                                KEPT          *--------0
+IEF285I   VOL SER NOS= MVSCAT.
+IEF285I   JES2.JOB03232.SO0124                         SYSOUT
+IEF285I   JES2.JOB03232.SI0107                         SYSIN
+IEF373I STEP /S18     / START 23025.0955
+IEF374I STEP /S18     / STOP  23025.0955 CPU    0MIN 00.06SEC SRB    0MIN 00.02SEC VIRT   768K SYS   256K
+************************************************************************************************************************************
+*    18. Jobstep of job: UPGRADE     Stepname: S18         Program name: IEBCOPY    Executed on 25.01.23 from 09.55.41 to 09.55.42 *
+*         elapsed time  00:00:00,18                      CPU-Identifier:  TK4-           Page-in:      0                           *
+*             CPU time  00:00:00,08               Virtual Storage used:    768K         Page-out:      0                           *
+*           corr. CPU:  00:00:00,08   CPU time has been corrected by  1 / 1,0  multiplier                                          *
+*                                                                                                                                  *
+*     I/O Operation                                                                                                                *
+*     Number of records read via DD * or DD DATA:      9                                                                           *
+*     280.....235 240.......0 280.......3 191.......0 DMY.......0 DMY.......0                                                      *
+*                                                                                                                                  *
+*                                          Charge for step (w/o SYSOUT):          0,13                                             *
+************************************************************************************************************************************
+IEF236I ALLOC. FOR UPGRADE S19
+IEF237I 280  ALLOCATED TO IPROC
+IEF237I 240  ALLOCATED TO SYS00099
+IEF237I 240  ALLOCATED TO OPROC
+IEF237I JES2 ALLOCATED TO SYSPRINT
+IEF237I JES2 ALLOCATED TO SYSIN
+IEF142I UPGRADE S19 - STEP WAS EXECUTED - COND CODE 0000
+IEF285I   HERC01.MAP3270.CNTL                          KEPT          *--------3
+IEF285I   VOL SER NOS= PUB002.
+IEF285I   SYS1.UCAT.TSO                                KEPT          *--------0
+IEF285I   VOL SER NOS= PUB000.
+IEF285I   SYS2.PROCLIB                                 KEPT          *--------3
+IEF285I   VOL SER NOS= PUB000.
+IEF285I   JES2.JOB03232.SO0125                         SYSOUT
+IEF285I   JES2.JOB03232.SI0108                         SYSIN
+IEF373I STEP /S19     / START 23025.0955
+IEF374I STEP /S19     / STOP  23025.0955 CPU    0MIN 00.02SEC SRB    0MIN 00.00SEC VIRT   768K SYS   248K
+************************************************************************************************************************************
+*    19. Jobstep of job: UPGRADE     Stepname: S19         Program name: IEBCOPY    Executed on 25.01.23 from 09.55.42 to 09.55.42 *
+*         elapsed time  00:00:00,05                      CPU-Identifier:  TK4-           Page-in:      0                           *
+*             CPU time  00:00:00,02               Virtual Storage used:    768K         Page-out:      0                           *
+*           corr. CPU:  00:00:00,02   CPU time has been corrected by  1 / 1,0  multiplier                                          *
+*                                                                                                                                  *
+*     I/O Operation                                                                                                                *
+*     Number of records read via DD * or DD DATA:      2                                                                           *
+*     280.......3 240.......0 240.......3 DMY.......0 DMY.......0                                                                  *
+*                                                                                                                                  *
+*                                          Charge for step (w/o SYSOUT):          0,03                                             *
+************************************************************************************************************************************
+IEF237I 140  ALLOCATED TO SYS00012
+IEF285I   SYS23025.T095542.RA000.UPGRADE.R0000012      KEPT          *--------0
+IEF285I   VOL SER NOS= WORK00.
+IEF285I   SYS23025.T095536.RA000.UPGRADE.COPYCNTL      DELETED
+IEF285I   VOL SER NOS= WORK00.
+IEF375I  JOB /UPGRADE / START 23025.0955
+IEF376I  JOB /UPGRADE / STOP  23025.0955 CPU    0MIN 01.89SEC SRB    0MIN 00.64SEC
+DATA SET UTILITY - GENERATE                                                                       PAGE 0001
+
+
+
+PROCESSING ENDED AT EOD
+IDCAMS  SYSTEM SERVICES                                           TIME: 09:55:36        01/25/23     PAGE   1
+
+
+  LISTCAT ENT(MAP3270.PANEL5)
+
+IDC3012I ENTRY MAP3270.PANEL5 NOT FOUND
+IDC3009I ** VSAM CATALOG RETURN CODE IS 8 - REASON CODE IS IGG0CLAG-6
+IDC1566I ** MAP3270.PANEL5 NOT LISTED
+IDCAMS  SYSTEM SERVICES                                           TIME: 09:55:36        01/25/23     PAGE   2
+
+         THE NUMBER OF ENTRIES PROCESSED WAS:
+
+                   AIX -------------------0
+                   ALIAS -----------------0
+                   CLUSTER ---------------0
+                   DATA ------------------0
+                   GDG -------------------0
+                   INDEX -----------------0
+                   NONVSAM ---------------0
+                   PAGESPACE -------------0
+                   PATH ------------------0
+                   SPACE -----------------0
+                   USERCATALOG -----------0
+                   TOTAL -----------------0
+
+         THE NUMBER OF PROTECTED ENTRIES SUPPRESSED WAS 0
+
+IDC0001I FUNCTION COMPLETED, HIGHEST CONDITION CODE WAS 4
+
+
+
+IDC0002I IDCAMS PROCESSING COMPLETE. MAXIMUM CONDITION CODE WAS 4
+IDCAMS  SYSTEM SERVICES                                           TIME: 09:55:36        01/25/23     PAGE   1
+
+
+  LISTCAT ENT(MAP3270.SOURCE5)
+
+IDC3012I ENTRY MAP3270.SOURCE5 NOT FOUND
+IDC3009I ** VSAM CATALOG RETURN CODE IS 8 - REASON CODE IS IGG0CLAG-6
+IDC1566I ** MAP3270.SOURCE5 NOT LISTED
+IDCAMS  SYSTEM SERVICES                                           TIME: 09:55:36        01/25/23     PAGE   2
+
+         THE NUMBER OF ENTRIES PROCESSED WAS:
+
+                   AIX -------------------0
+                   ALIAS -----------------0
+                   CLUSTER ---------------0
+                   DATA ------------------0
+                   GDG -------------------0
+                   INDEX -----------------0
+                   NONVSAM ---------------0
+                   PAGESPACE -------------0
+                   PATH ------------------0
+                   SPACE -----------------0
+                   USERCATALOG -----------0
+                   TOTAL -----------------0
+
+         THE NUMBER OF PROTECTED ENTRIES SUPPRESSED WAS 0
+
+IDC0001I FUNCTION COMPLETED, HIGHEST CONDITION CODE WAS 4
+
+
+
+IDC0002I IDCAMS PROCESSING COMPLETE. MAXIMUM CONDITION CODE WAS 4
+IDCAMS  SYSTEM SERVICES                                           TIME: 09:55:37        01/25/23     PAGE   1
+
+
+ /* DELETE PDS MEMBER                                      */
+   DELETE SYS2.LINKLIB(MAP3270) NONVSAM PURGE
+
+IDC0549I MEMBER MAP3270 DELETED
+
+IDC0001I FUNCTION COMPLETED, HIGHEST CONDITION CODE WAS 0
+
+
+   DELETE SYS2.LINKLIB(MAP32705) NONVSAM PURGE
+
+IDC3302I  ACTION ERROR ON SYS2.LINKLIB
+IDC3330I ** MAP32705 NOT FOUND
+IDC0548I **MEMBER MAP32705 NOT DELETED
+
+IDC0001I FUNCTION COMPLETED, HIGHEST CONDITION CODE WAS 8
+
+
+   DELETE SYS2.LINKLIB(TTYRTN) NONVSAM PURGE
+
+IDC0549I MEMBER TTYRTN DELETED
+
+IDC0001I FUNCTION COMPLETED, HIGHEST CONDITION CODE WAS 0
+
+
+   DELETE SYS2.LINKLIB(TTYRTNP) NONVSAM PURGE
+
+IDC0549I MEMBER TTYRTNP DELETED
+
+IDC0001I FUNCTION COMPLETED, HIGHEST CONDITION CODE WAS 0
+
+
+   DELETE SYS2.LINKLIB(TTY3270) NONVSAM PURGE /* UNUSED */
+
+IDC0549I MEMBER TTY3270 DELETED
+
+IDC0001I FUNCTION COMPLETED, HIGHEST CONDITION CODE WAS 0
+
+
+   DELETE SYS2.LINKLIB(T3270IO) NONVSAM PURGE
+
+IDC0549I MEMBER T3270IO DELETED
+
+IDC0001I FUNCTION COMPLETED, HIGHEST CONDITION CODE WAS 0
+
+
+   DELETE SYS2.LINKLIB(T3270IOP) NONVSAM PURGE
+
+IDC0549I MEMBER T3270IOP DELETED
+
+IDC0001I FUNCTION COMPLETED, HIGHEST CONDITION CODE WAS 0
+IDCAMS  SYSTEM SERVICES                                           TIME: 09:55:37        01/25/23     PAGE   2
+
+
+   DELETE SYS2.LINKLIB(TTYRTNW) NONVSAM PURGE /* ALIAS */
+
+IDC3302I  ACTION ERROR ON SYS2.LINKLIB
+IDC3330I ** TTYRTNW  NOT FOUND
+IDC0548I **MEMBER TTYRTNW NOT DELETED
+
+IDC0001I FUNCTION COMPLETED, HIGHEST CONDITION CODE WAS 8
+
+
+   DELETE SYS2.LINKLIB(T327IOP) NONVSAM PURGE /* ALIAS */
+
+IDC3302I  ACTION ERROR ON SYS2.LINKLIB
+IDC3330I ** T327IOP  NOT FOUND
+IDC0548I **MEMBER T327IOP NOT DELETED
+
+IDC0001I FUNCTION COMPLETED, HIGHEST CONDITION CODE WAS 8
+
+
+   SET LASTCC = 0
+
+   SET MAXCC = 0
+
+
+IDC0002I IDCAMS PROCESSING COMPLETE. MAXIMUM CONDITION CODE WAS 0
+                                        IEBCOPY MESSAGES AND CONTROL STATEMENTS                               PAGE 0001
+
+
+                     COPY INDD=NEW,OUTDD=OLD
+                     S M=((MAP3270,,R))
+                     S M=((TTYRTN,,R))
+                     S M=((TTYRTNW,,R))
+                     S M=((TTYRTNP,,R))
+                     S M=((T3270IO,,R))
+                     S M=((T3270IOP,,R))
+                     S M=((T327IOP,,R))
+IEB167I  FOLLOWING MEMBER(S)  COPIED  FROM INPUT DATA SET REFERENCED BY NEW      -
+IEB154I  MAP3270  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  TTYRTN   HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  TTYRTNP  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  TTYRTNW  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  T327IOP  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  T3270IO  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  T3270IOP HAS BEEN SUCCESSFULLY  COPIED
+IEB144I  THERE ARE 0000227 UNUSED TRACKS IN OUTPUT DATA SET REFERENCED BY OLD
+IEB149I  THERE ARE 0000065  UNUSED DIRECTORY BLOCKS IN OUTPUT DIRECTORY
+IEB147I  END OF JOB -00 WAS HIGHEST SEVERITY CODE
+                                        IEBCOPY MESSAGES AND CONTROL STATEMENTS                               PAGE 0001
+
+
+                     COPY INDD=OLD,OUTDD=OLD
+IEB161I  COMPRESS TO BE DONE USING INDD NAMED OLD
+IEB152I  BSPVTMWT COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  CONFIGSE COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  ZAPDSCB  COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  BSPOSCMD COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  BSPPA2SI COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  BSPFCOOK COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  COOKIE   COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  FCOOKIE  COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  FORTUNE  COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  MURPHY   COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  BSPAPFCK COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  BRODSCAN COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  DELAY    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  MOVELOAD COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  MOVELOD  COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  REQUEUE  COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  BSPAPFLS COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  TAPEHDR  COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  BSPPILOT COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  BSPRUNSC COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  GENERIC  COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  DYNAMASK COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  UNITMAP  COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  DYNABLDL COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  RMFPRT   COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  TSUPDATE COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IKFCBL00 COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IKFCBL1B COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IKFCBL10 COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IKFCBL20 COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IKFCBL30 COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IKFCBL40 COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IKFCBL50 COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IKFCBL51 COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IKFCBL6A COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IKFCBL60 COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IKFCBL70 COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IKFCBL01 COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEKAA00  COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEYALL   COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEYEXT   COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEYFORT  COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEYGEN   COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEYPAR   COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEYUNF   COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMAA    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMAAA   COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMAB    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMAC    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMAD    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMAE    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+                                        IEBCOPY MESSAGES AND CONTROL STATEMENTS                               PAGE 0002
+
+
+IEB152I  IEMAG    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMAH    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMAI    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMAJ    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMAK    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMAL    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMAM    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMAN    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMAS    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMAT    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMAV    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMBC    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMBE    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMBF    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMBG    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMBI    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMBJ    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMBM    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMBN    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMBO    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMBP    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMBR    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMBS    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMBT    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMBU    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMBV    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMBW    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMBX    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMCA    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMCC    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMCE    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMCG    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMCI    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMCK    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMCL    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMCM    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMCN    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMCO    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMCP    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMCR    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMCS    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMCT    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMCV    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMCW    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMED    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMEF    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMEG    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMEH    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMEI    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMEJ    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMEK    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMEL    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMEM    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+                                        IEBCOPY MESSAGES AND CONTROL STATEMENTS                               PAGE 0003
+
+
+IEB152I  IEMEP    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMEV    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMEW    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMEX    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMEY    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMEZ    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMFA    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMFB    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMFE    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMFF    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMFI    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMFO    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMFP    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMFQ    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMFT    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMFU    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMFV    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMFW    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMFX    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMFY    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMF1    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMGA    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMGC    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMGK    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMGO    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMGP    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMGQ    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMGR    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMGU    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMGV    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMHF    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMHG    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMHK    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMHL    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMHP    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMIA    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMIB    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMIG    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMIK    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMIL    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMIM    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMIN    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMIP    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMIQ    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMIT    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMIX    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMJD    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMJI    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMJJ    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMJK    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMJL    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMJM    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMJP    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+                                        IEBCOPY MESSAGES AND CONTROL STATEMENTS                               PAGE 0004
+
+
+IEB152I  IEMJZ    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMKA    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMKB    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMKC    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMKE    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMKG    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMKJ    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMKN    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMKO    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMKP    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMKQ    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMKT    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMKU    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMKV    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMLB    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMLC    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMLD    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMLG    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMLH    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMLR    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMLS    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMLT    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMLU    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMLV    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMLW    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMLX    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMLY    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMMA    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMMB    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMMC    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMMD    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMME    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMMF    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMMG    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMMH    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMMI    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMMJ    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMMK    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMML    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMMM    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMMN    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMMO    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMMP    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMMS    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMMT    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMNA    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMNB    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMNG    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMNH    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMNJ    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMNK    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMNM    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMNN    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+                                        IEBCOPY MESSAGES AND CONTROL STATEMENTS                               PAGE 0005
+
+
+IEB152I  IEMNT    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMNU    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMNV    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMOB    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMOC    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMOD    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMOE    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMOF    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMOG    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMOH    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMOI    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMOL    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMOM    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMON    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMOO    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMOP    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMOS    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMOT    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMOU    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMPD    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMPH    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMPL    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMPM    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMPO    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMPP    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMPT    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMPU    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMPV    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMQF    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMQG    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMQH    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMQJ    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMQK    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMQL    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMQU    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMQX    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMRA    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMRB    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMRC    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMRD    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMRF    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMRG    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMTF    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMTJ    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMTK    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMTO    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMTP    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMTQ    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMTT    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMTU    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMUA    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMUB    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMUC    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+                                        IEBCOPY MESSAGES AND CONTROL STATEMENTS                               PAGE 0006
+
+
+IEB152I  IEMUD    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMUE    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMUF    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMUG    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMUH    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMUI    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMXA    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMXB    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMXC    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMXF    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMXG    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMXH    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMXI    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMXJ    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMXO    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMXP    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMXQ    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMXR    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMXS    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMXT    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMXU    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMXV    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMXW    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMYL    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMYM    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMYN    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMYO    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMYP    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMYQ    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMYX    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMYY    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMAF    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMAP    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMFZ    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMGB    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMIC    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMOQ    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEMPA    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IESRPG   COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  RPG      COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  RPG10000 COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  RPG10030 COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  RPG10040 COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  RPG10050 COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  RPG10060 COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  RPG10070 COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  RPG1008A COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  RPG10080 COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  RPG10090 COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  RPG10100 COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  RPG10110 COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  RPG10120 COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  RPG10130 COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+                                        IEBCOPY MESSAGES AND CONTROL STATEMENTS                               PAGE 0007
+
+
+IEB152I  RPG10140 COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  RPG10150 COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  RPG10160 COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  RPG10170 COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  RPG10180 COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  RPG10190 COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  RPG10200 COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  RPG10210 COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  RPG10220 COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  RPG10230 COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  RPG10240 COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  RPG10250 COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IERRCB   COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IERRCO00 COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  SORT     COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IERRCM   COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IERRCZ   COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  CMDSBCSC COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  CMDSBINT COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  CMDSBSYS COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  CMDSBMON COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  CSCSA03D COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  CSCSC03D COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  CSCSD03D COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  CSCSF03D COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  CSCSG03D COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  CSCSH03D COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  CSCSI03D COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  CSCSK03D COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  CSCSZ03D COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  CSCSM03D COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  CSCSN03D COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  CSCSO03D COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  CSCSP03D COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  CSCSQ03D COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  CSCSR03D COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  CSCSS03D COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  CSCZB03D COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  CSCZC03D COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  CSCZP03D COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  CSCZA03D COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  CSCSE03D COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  CSCSJ03D COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  CSCSL03D COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  CSCZJ03D COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  CSCZS03D COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  CMDPRINT COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  RECV370  COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  XMIT370  COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  REVLMOD  COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  MINIZIP  COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  MINIUNZ  COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  OFFLOAD  COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+                                        IEBCOPY MESSAGES AND CONTROL STATEMENTS                               PAGE 0008
+
+
+IEB152I  OFFLMOD  COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  PDSUPDTE COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  MAWK     COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  INITOBJ  COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  RUNZ9    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  SIMZ9    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  TESTZ9   COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  DISASM01 COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  DISASM   COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  DISOPAPP COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  DISOPAP2 COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  DISOP36S COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  DISOP37B COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEHMAPIN COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEHMAP   COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  BSPDELAY COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  BSPRCTST COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  PL360    COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  MAPDISK  COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  SHOWMVS  COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  AUTO     COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  DISKMAPA COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  DISKMAP  COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  BSPHRCMD COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  INITKSDS COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  FILLDASD COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  BYPASSNQ COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  TAPEMAP  COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  TESTVTM2 COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  XVTCLIST COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  SUPERLST COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEBUPDTX COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  IEBUPCHN COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  HERB     COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  SCRIPTW  COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  NSCRIPT  COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  DYNALOAD COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  DYNALDA  COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB152I  DYNALDP  COMPRESSED - WAS ALREADY IN PLACE AND NOT MOVED
+IEB167I  FOLLOWING MEMBER(S)  COPIED  FROM INPUT DATA SET REFERENCED BY OLD      -
+IEB154I  AFPCNTRL HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  ALGOL    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  ARCHINIT HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  ARCHIVER HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  ARCHPARS HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  AUTO     HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  BRODSCAN HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  BSPAPFCK HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  BSPAPFLS HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  BSPDELAY HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  BSPFCOOK HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  BSPHRCMD HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  BSPOSCMD HAS BEEN SUCCESSFULLY  COPIED
+                                        IEBCOPY MESSAGES AND CONTROL STATEMENTS                               PAGE 0009
+
+
+IEB154I  BSPPA2SI HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  BSPPILOT HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  BSPRCTST HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  BSPRUNSC HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  BSPSETPF HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  BSPVTMWT HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  BYPASSNQ HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  CMDPRINT HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  CMDSBCSC HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  CMDSBINT HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  CMDSBMON HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  CMDSBSYS HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  CONFIGSE HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  COOKIE   HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  COPYFILE HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  CSCSA03D HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  CSCSC03D HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  CSCSD03D HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  CSCSE03D HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  CSCSF03D HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  CSCSG03D HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  CSCSH03D HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  CSCSI03D HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  CSCSJ03D HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  CSCSK03D HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  CSCSL03D HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  CSCSM03D HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  CSCSN03D HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  CSCSO03D HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  CSCSP03D HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  CSCSQ03D HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  CSCSR03D HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  CSCSS03D HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  CSCSZ03D HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  CSCZA03D HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  CSCZB03D HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  CSCZC03D HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  CSCZJ03D HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  CSCZP03D HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  CSCZS03D HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  DDTSYM   HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  DELAY    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  DISASM   HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  DISASM01 HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  DISKMAP  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  DISKMAPA HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  DISOPAPP HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  DISOPAP2 HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  DISOP36S HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  DISOP37B HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  DSSRENAM HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  DYNABLDL HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  DYNALDA  HAS BEEN SUCCESSFULLY  COPIED
+                                        IEBCOPY MESSAGES AND CONTROL STATEMENTS                               PAGE 0010
+
+
+IEB154I  DYNALDP  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  DYNALOAD HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  DYNAMASK HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  EMAIL    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  FCOOKIE  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  FILEDUMP HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  FILLDASD HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  FORTUNE  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  FTPCMD   HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  FTPD     HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  FTPD-RAC HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  FTPD-STD HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  FTPDXCTL HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  GCC      HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  GCC370   HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  GENERIC  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  HERB     HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  HEXDUMP  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEBUPCHN HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEBUPDTX HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEHMAP   HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEHMAPIN HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEKAA00  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMAA    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMAAA   HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMAB    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMAC    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMAD    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMAE    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMAF    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMAG    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMAH    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMAI    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMAJ    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMAK    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMAL    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMAM    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMAN    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMAP    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMAS    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMAT    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMAV    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMBC    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMBE    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMBF    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMBG    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMBI    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMBJ    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMBM    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMBN    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMBO    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMBP    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMBR    HAS BEEN SUCCESSFULLY  COPIED
+                                        IEBCOPY MESSAGES AND CONTROL STATEMENTS                               PAGE 0011
+
+
+IEB154I  IEMBS    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMBT    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMBU    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMBV    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMBW    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMBX    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMCA    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMCC    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMCE    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMCG    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMCI    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMCK    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMCL    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMCM    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMCN    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMCO    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMCP    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMCR    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMCS    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMCT    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMCV    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMCW    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMED    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMEF    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMEG    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMEH    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMEI    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMEJ    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMEK    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMEL    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMEM    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMEP    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMEV    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMEW    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMEX    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMEY    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMEZ    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMFA    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMFB    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMFE    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMFF    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMFI    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMFO    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMFP    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMFQ    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMFT    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMFU    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMFV    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMFW    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMFX    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMFY    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMFZ    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMF1    HAS BEEN SUCCESSFULLY  COPIED
+                                        IEBCOPY MESSAGES AND CONTROL STATEMENTS                               PAGE 0012
+
+
+IEB154I  IEMGA    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMGB    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMGC    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMGK    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMGO    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMGP    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMGQ    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMGR    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMGU    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMGV    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMHF    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMHG    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMHK    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMHL    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMHP    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMIA    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMIB    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMIC    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMIG    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMIK    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMIL    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMIM    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMIN    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMIP    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMIQ    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMIT    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMIX    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMJD    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMJI    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMJJ    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMJK    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMJL    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMJM    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMJP    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMJZ    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMKA    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMKB    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMKC    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMKE    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMKG    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMKJ    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMKN    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMKO    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMKP    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMKQ    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMKT    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMKU    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMKV    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMLB    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMLC    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMLD    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMLG    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMLH    HAS BEEN SUCCESSFULLY  COPIED
+                                        IEBCOPY MESSAGES AND CONTROL STATEMENTS                               PAGE 0013
+
+
+IEB154I  IEMLR    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMLS    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMLT    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMLU    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMLV    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMLW    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMLX    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMLY    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMMA    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMMB    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMMC    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMMD    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMME    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMMF    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMMG    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMMH    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMMI    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMMJ    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMMK    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMML    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMMM    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMMN    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMMO    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMMP    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMMS    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMMT    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMNA    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMNB    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMNG    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMNH    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMNJ    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMNK    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMNM    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMNN    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMNT    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMNU    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMNV    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMOB    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMOC    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMOD    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMOE    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMOF    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMOG    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMOH    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMOI    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMOL    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMOM    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMON    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMOO    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMOP    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMOQ    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMOS    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMOT    HAS BEEN SUCCESSFULLY  COPIED
+                                        IEBCOPY MESSAGES AND CONTROL STATEMENTS                               PAGE 0014
+
+
+IEB154I  IEMOU    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMPA    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMPD    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMPH    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMPL    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMPM    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMPO    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMPP    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMPT    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMPU    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMPV    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMQF    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMQG    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMQH    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMQJ    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMQK    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMQL    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMQU    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMQX    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMRA    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMRB    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMRC    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMRD    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMRF    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMRG    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMTF    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMTJ    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMTK    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMTO    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMTP    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMTQ    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMTT    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMTU    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMUA    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMUB    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMUC    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMUD    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMUE    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMUF    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMUG    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMUH    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMUI    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMXA    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMXB    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMXC    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMXF    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMXG    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMXH    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMXI    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMXJ    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMXO    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMXP    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMXQ    HAS BEEN SUCCESSFULLY  COPIED
+                                        IEBCOPY MESSAGES AND CONTROL STATEMENTS                               PAGE 0015
+
+
+IEB154I  IEMXR    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMXS    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMXT    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMXU    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMXV    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMXW    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMYL    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMYM    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMYN    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMYO    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMYP    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMYQ    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMYX    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEMYY    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IERRCB   HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IERRCM   HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IERRCO00 HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IERRCZ   HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IESRPG   HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEX00    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEX10    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEX10000 HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEX11    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEX11000 HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEX20    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEX20000 HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEX21    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEX21000 HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEX30    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEX30000 HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEX31    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEX31000 HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEX40    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEX40000 HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEX50    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEX50000 HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEX51    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEX51ER1 HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEX51ER2 HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEX51000 HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEX51002 HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEYALL   HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEYEXT   HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEYFORT  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEYGEN   HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEYPAR   HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IEYUNF   HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IKFCBL00 HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IKFCBL01 HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IKFCBL1B HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IKFCBL10 HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IKFCBL20 HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IKFCBL30 HAS BEEN SUCCESSFULLY  COPIED
+                                        IEBCOPY MESSAGES AND CONTROL STATEMENTS                               PAGE 0016
+
+
+IEB154I  IKFCBL40 HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IKFCBL50 HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IKFCBL51 HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IKFCBL6A HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IKFCBL60 HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IKFCBL70 HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  INITKSDS HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  INITOBJ  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  JRP100   HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  JRP110   HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  JRP120   HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  JRP121   HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  JRP122   HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  JRP123   HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  JRP200   HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  JRP210   HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  JRP220   HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  JRP300   HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  JRP310   HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  JRP400   HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  MAPDISK  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  MAP3270  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  MAWK     HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  MINIUNZ  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  MINIZIP  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  MOVELOAD HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  MOVELOD  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  MURPHY   HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  MVSDDT   HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  MVSENDEC HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  MVSUNZIP HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  NSCRIPT  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  OFFLMOD  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  OFFLOAD  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  PDSLOAD  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  PDSUPDTE HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  PL1UC    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  PL360    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  PORTS    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  RECV370  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  REQUEUE  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  RESET    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  REVLMOD  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  RMFPRT   HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  RPG      HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  RPG10000 HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  RPG10030 HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  RPG10040 HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  RPG10050 HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  RPG10060 HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  RPG10070 HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  RPG1008A HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  RPG10080 HAS BEEN SUCCESSFULLY  COPIED
+                                        IEBCOPY MESSAGES AND CONTROL STATEMENTS                               PAGE 0017
+
+
+IEB154I  RPG10090 HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  RPG10100 HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  RPG10110 HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  RPG10120 HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  RPG10130 HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  RPG10140 HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  RPG10150 HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  RPG10160 HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  RPG10170 HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  RPG10180 HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  RPG10190 HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  RPG10200 HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  RPG10210 HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  RPG10220 HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  RPG10230 HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  RPG10240 HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  RPG10250 HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  RUNZ9    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  SCRIPTW  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  SHOWMVS  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  SIMZ9    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  SNAPFR   HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  SNAPFRP  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  SNASOL   HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  SORT     HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  SUPERLST HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  TAPEHDR  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  TAPEMAP  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  TESTVTM2 HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  TESTZ9   HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  TSUPDATE HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  TTYRTN   HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  TTYRTNP  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  TTYRTNW  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  T327IOP  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  T3270IO  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  T3270IOP HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  UNITMAP  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  XMIT370  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  XVTCLIST HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  ZAPDSCB  HAS BEEN SUCCESSFULLY  COPIED
+IEB144I  THERE ARE 0000240 UNUSED TRACKS IN OUTPUT DATA SET REFERENCED BY OLD
+IEB149I  THERE ARE 0000065  UNUSED DIRECTORY BLOCKS IN OUTPUT DIRECTORY
+IEB147I  END OF JOB -00 WAS HIGHEST SEVERITY CODE
+                                        IEBCOPY MESSAGES AND CONTROL STATEMENTS                               PAGE 0001
+
+
+                     COPY INDD=IN,OUTDD=OUT
+IEB167I  FOLLOWING MEMBER(S)  COPIED  FROM INPUT DATA SET REFERENCED BY IN       -
+IEB154I  AIDCODES HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  DEMOPA5  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IOCB     HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  MDEMO15  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  MDEMO25  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  MDEMO35  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  MOD2DEM  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  MOD3DEM  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  MOD4DEM  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  TTYMOD2  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  TTYMOD3  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  TTYMOD4  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  TTYPARMS HAS BEEN SUCCESSFULLY  COPIED
+IEB144I  THERE ARE 0000004 UNUSED TRACKS IN OUTPUT DATA SET REFERENCED BY OUT
+IEB149I  THERE ARE 0000001  UNUSED DIRECTORY BLOCKS IN OUTPUT DIRECTORY
+IEB147I  END OF JOB -00 WAS HIGHEST SEVERITY CODE
+                                        IEBCOPY MESSAGES AND CONTROL STATEMENTS                               PAGE 0001
+
+
+                     COPY INDD=IN,OUTDD=OUT
+IEB167I  FOLLOWING MEMBER(S)  COPIED  FROM INPUT DATA SET REFERENCED BY IN       -
+IEB154I  DEMOPA5  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IOCB     HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  MDEMO15  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  MDEMO25  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  MDEMO35  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  MOD2DEM  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  MOD3DEM  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  MOD4DEM  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  TTYMOD2  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  TTYMOD3  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  TTYMOD4  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  TTY3270  HAS BEEN SUCCESSFULLY  COPIED
+IEB144I  THERE ARE 0000003 UNUSED TRACKS IN OUTPUT DATA SET REFERENCED BY OUT
+IEB149I  THERE ARE 0000002  UNUSED DIRECTORY BLOCKS IN OUTPUT DIRECTORY
+IEB147I  END OF JOB -00 WAS HIGHEST SEVERITY CODE
+                                        IEBCOPY MESSAGES AND CONTROL STATEMENTS                               PAGE 0001
+
+
+                     COPY INDD=IN,OUTDD=OUT
+IEB167I  FOLLOWING MEMBER(S)  COPIED  FROM INPUT DATA SET REFERENCED BY IN       -
+IEB154I  DEMOPA5  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  IOCB     HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  MDEMO15  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  MDEMO25  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  MDEMO35  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  MOD2DEM  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  MOD3DEM  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  MOD4DEM  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  TTYMOD2  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  TTYMOD3  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  TTYMOD4  HAS BEEN SUCCESSFULLY  COPIED
+IEB144I  THERE ARE 0000005 UNUSED TRACKS IN OUTPUT DATA SET REFERENCED BY OUT
+IEB149I  THERE ARE 0000002  UNUSED DIRECTORY BLOCKS IN OUTPUT DIRECTORY
+IEB147I  END OF JOB -00 WAS HIGHEST SEVERITY CODE
+                                        IEBCOPY MESSAGES AND CONTROL STATEMENTS                               PAGE 0001
+
+
+                     COPY INDD=IN,OUTDD=OUT
+IEB167I  FOLLOWING MEMBER(S)  COPIED  FROM INPUT DATA SET REFERENCED BY IN       -
+IEB154I  DEMOPA5  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  MDEMO15  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  MDEMO25  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  MDEMO35  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  MOD2DEM  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  MOD3DEM  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  MOD4DEM  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  TTYMOD2  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  TTYMOD3  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  TTYMOD4  HAS BEEN SUCCESSFULLY  COPIED
+IEB144I  THERE ARE 0000004 UNUSED TRACKS IN OUTPUT DATA SET REFERENCED BY OUT
+IEB149I  THERE ARE 0000002  UNUSED DIRECTORY BLOCKS IN OUTPUT DIRECTORY
+IEB147I  END OF JOB -00 WAS HIGHEST SEVERITY CODE
+                                        IEBCOPY MESSAGES AND CONTROL STATEMENTS                               PAGE 0001
+
+
+                     COPY INDD=IN,OUTDD=OUT
+IEB167I  FOLLOWING MEMBER(S)  COPIED  FROM INPUT DATA SET REFERENCED BY IN       -
+IEB154I  MOD2DEM  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  MOD3DEM  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  MOD4DEM  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  TTYMOD2  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  TTYMOD3  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  TTYMOD4  HAS BEEN SUCCESSFULLY  COPIED
+IEB144I  THERE ARE 0000005 UNUSED TRACKS IN OUTPUT DATA SET REFERENCED BY OUT
+IEB149I  THERE ARE 0000002  UNUSED DIRECTORY BLOCKS IN OUTPUT DIRECTORY
+IEB147I  END OF JOB -00 WAS HIGHEST SEVERITY CODE
+                                        IEBCOPY MESSAGES AND CONTROL STATEMENTS                               PAGE 0001
+
+
+                     COPY INDD=IN,OUTDD=OUT
+IEB167I  FOLLOWING MEMBER(S)  COPIED  FROM INPUT DATA SET REFERENCED BY IN       -
+IEB154I  DEMOPA5  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  MDEMO15  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  MDEMO25  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  MDEMO35  HAS BEEN SUCCESSFULLY  COPIED
+IEB144I  THERE ARE 0000008 UNUSED TRACKS IN OUTPUT DATA SET REFERENCED BY OUT
+IEB149I  THERE ARE 0000009  UNUSED DIRECTORY BLOCKS IN OUTPUT DIRECTORY
+IEB147I  END OF JOB -00 WAS HIGHEST SEVERITY CODE
+                                        IEBCOPY MESSAGES AND CONTROL STATEMENTS                               PAGE 0001
+
+
+                     COPY INDD=IN,OUTDD=OUT
+IEB167I  FOLLOWING MEMBER(S)  COPIED  FROM INPUT DATA SET REFERENCED BY IN       -
+IEB154I  $DEBUG   HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  $DUMPER  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  #TRT3270 HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  #TSBA    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  #TSTPAN  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  TTYRTNX  HAS BEEN SUCCESSFULLY  COPIED
+IEB144I  THERE ARE 0000002 UNUSED TRACKS IN OUTPUT DATA SET REFERENCED BY OUT
+IEB149I  THERE ARE 0000003  UNUSED DIRECTORY BLOCKS IN OUTPUT DIRECTORY
+IEB147I  END OF JOB -00 WAS HIGHEST SEVERITY CODE
+                                        IEBCOPY MESSAGES AND CONTROL STATEMENTS                               PAGE 0001
+
+
+                     COPY INDD=IN,OUTDD=OUT
+IEB167I  FOLLOWING MEMBER(S)  COPIED  FROM INPUT DATA SET REFERENCED BY IN       -
+IEB154I  $DUMPR   HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  $MODSPEC HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  CDEMO5   HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  FIX2STR  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  MAP3270  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  MDEMO    HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  MDEMO5   HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  M2DEMO   HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  M3DEMO   HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  M4DEMO   HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  PDEMO5   HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  SELECT   HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  TTYRTN   HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  TTYRTNP  HAS BEEN SUCCESSFULLY  COPIED
+IEB144I  THERE ARE 0000000 UNUSED TRACKS IN OUTPUT DATA SET REFERENCED BY OUT
+IEB149I  THERE ARE 0000001  UNUSED DIRECTORY BLOCKS IN OUTPUT DIRECTORY
+IEB147I  END OF JOB -00 WAS HIGHEST SEVERITY CODE
+                                        IEBCOPY MESSAGES AND CONTROL STATEMENTS                               PAGE 0001
+
+
+                     COPY INDD=IN,OUTDD=OUT
+IEB167I  FOLLOWING MEMBER(S)  COPIED  FROM INPUT DATA SET REFERENCED BY IN       -
+IEB154I  $MODSPEC HAS BEEN SUCCESSFULLY  COPIED
+IEB144I  THERE ARE 0000001 UNUSED TRACKS IN OUTPUT DATA SET REFERENCED BY OUT
+IEB149I  THERE ARE 0000001  UNUSED DIRECTORY BLOCKS IN OUTPUT DIRECTORY
+IEB147I  END OF JOB -00 WAS HIGHEST SEVERITY CODE
+                                        IEBCOPY MESSAGES AND CONTROL STATEMENTS                               PAGE 0001
+
+
+                     COPY INDD=ILOAD,OUTDD=OLOAD
+                     E M=(MAP3270)
+                     E M=(MAP32705)
+                     E M=(TTYRTN)
+                     E M=(TTYRTNW)
+                     E M=(TTYRTNP)
+                     E M=(T3270IO)
+                     E M=(T3270IOP)
+                     E M=(T327IOP)
+IEB167I  FOLLOWING MEMBER(S)  COPIED  FROM INPUT DATA SET REFERENCED BY ILOAD    -
+IEB154I  $A3270   HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  $DUMPR   HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  CDEMO5   HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  DEMOPA5  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  DYNALDA  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  DYNALDP  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  DYNALOAD HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  MDEMO15  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  MDEMO25  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  MDEMO35  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  MDEMO5   HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  MOD2DEM  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  MOD3DEM  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  MOD4DEM  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  M2DEMO   HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  M3DEMO   HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  M4DEMO   HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  PDEMO5   HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  TTYMOD2  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  TTYMOD3  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  TTYMOD4  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  TTYRTN2  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  TTYRTN3  HAS BEEN SUCCESSFULLY  COPIED
+IEB154I  TTYRTN4  HAS BEEN SUCCESSFULLY  COPIED
+IEB144I  THERE ARE 0000001 UNUSED TRACKS IN OUTPUT DATA SET REFERENCED BY OLOAD
+IEB149I  THERE ARE 0000001  UNUSED DIRECTORY BLOCKS IN OUTPUT DIRECTORY
+IEB147I  END OF JOB -00 WAS HIGHEST SEVERITY CODE
+                                        IEBCOPY MESSAGES AND CONTROL STATEMENTS                               PAGE 0001
+
+
+                     COPY INDD=IPROC,OUTDD=OPROC
+                     S M=((MAP3270,,R))
+IEB167I  FOLLOWING MEMBER(S)  COPIED  FROM INPUT DATA SET REFERENCED BY IPROC    -
+IEB154I  MAP3270  HAS BEEN SUCCESSFULLY  COPIED
+IEB144I  THERE ARE 0000006 UNUSED TRACKS IN OUTPUT DATA SET REFERENCED BY OPROC
+IEB149I  THERE ARE 0000000  UNUSED DIRECTORY BLOCKS IN OUTPUT DIRECTORY
+IEB147I  END OF JOB -00 WAS HIGHEST SEVERITY CODE
+                        UU        UU  PPPPPPPPPPP    GGGGGGGGGG   RRRRRRRRRRR    AAAAAAAAAA   DDDDDDDDD     EEEEEEEEEEEE
+                       UU        UU  PPPPPPPPPPPP  GGGGGGGGGGGG  RRRRRRRRRRRR  AAAAAAAAAAAA  DDDDDDDDDD    EEEEEEEEEEEE
+                      UU        UU  PP        PP  GG        GG  RR        RR  AA        AA  DD       DD   EE
+                     UU        UU  PP        PP  GG            RR        RR  AA        AA  DD        DD  EE
+                    UU        UU  PP        PP  GG            RR        RR  AA        AA  DD        DD  EE
+                   UU        UU  PPPPPPPPPPPP  GG            RRRRRRRRRRRR  AAAAAAAAAAAA  DD        DD  EEEEEEEE
+                  UU        UU  PPPPPPPPPPP   GG     GGGGG  RRRRRRRRRRR   AAAAAAAAAAAA  DD        DD  EEEEEEEE
+                 UU        UU  PP            GG     GGGGG  RR    RR      AA        AA  DD        DD  EE
+                UU        UU  PP            GG        GG  RR     RR     AA        AA  DD        DD  EE
+               UU        UU  PP            GG        GG  RR      RR    AA        AA  DD       DD   EE
+              UUUUUUUUUUUU  PP            GGGGGGGGGGGG  RR       RR   AA        AA  DDDDDDDDDD    EEEEEEEEEEEE
+              UUUUUUUUUU   PP             GGGGGGGGGG   RR        RR  AA        AA  DDDDDDDDD     EEEEEEEEEEEE
+
+
+
+                    JJJJJJJJJJ   3333333333    2222222222    3333333333    2222222222                  AAAAAAAAAA
+                    JJJJJJJJJJ  333333333333  222222222222  333333333333  222222222222                AAAAAAAAAAAA
+                        JJ      33        33  22        22  33        33  22        22                AA        AA
+                        JJ                33            22            33            22                AA        AA
+                        JJ                33            22            33            22                AA        AA
+                        JJ             3333            22          3333            22                 AAAAAAAAAAAA
+                        JJ             3333          22            3333          22                   AAAAAAAAAAAA
+                        JJ                33       22                 33       22                     AA        AA
+                  JJ    JJ                33     22                   33     22                       AA        AA
+                  JJ    JJ      33        33   22           33        33   22                         AA        AA
+                  JJJJJJJJ      333333333333  222222222222  333333333333  222222222222                AA        AA
+                   JJJJJJ        3333333333   222222222222   3333333333   222222222222                AA        AA
+
+
+****A   END   JOB 3232  UPGRADE                         ROOM        9.55.42 AM 25 JAN 23  PRINTER1  SYS TK4-  JOB 3232   END   A****
+****A   END   JOB 3232  UPGRADE                         ROOM        9.55.42 AM 25 JAN 23  PRINTER1  SYS TK4-  JOB 3232   END   A****
+****A   END   JOB 3232  UPGRADE                         ROOM        9.55.42 AM 25 JAN 23  PRINTER1  SYS TK4-  JOB 3232   END   A****
+****A   END   JOB 3232  UPGRADE                         ROOM        9.55.42 AM 25 JAN 23  PRINTER1  SYS TK4-  JOB 3232   END   A****
+
