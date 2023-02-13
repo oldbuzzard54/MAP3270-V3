@@ -1,0 +1,813 @@
+                               UU        UU  NN        NN  LL            OOOOOOOOOOOO   AAAAAAAAAA   DDDDDDDDD
+                              UU        UU  NNN       NN  LL            OOOOOOOOOOOO  AAAAAAAAAAAA  DDDDDDDDDD
+                             UU        UU  NNNN      NN  LL            OO        OO  AA        AA  DD       DD
+                            UU        UU  NN NN     NN  LL            OO        OO  AA        AA  DD        DD
+                           UU        UU  NN  NN    NN  LL            OO        OO  AA        AA  DD        DD
+                          UU        UU  NN   NN   NN  LL            OO        OO  AAAAAAAAAAAA  DD        DD
+                         UU        UU  NN    NN  NN  LL            OO        OO  AAAAAAAAAAAA  DD        DD
+                        UU        UU  NN     NN NN  LL            OO        OO  AA        AA  DD        DD
+                       UU        UU  NN      NNNN  LL            OO        OO  AA        AA  DD        DD
+                      UU        UU  NN       NNN  LL            OO        OO  AA        AA  DD       DD
+                     UUUUUUUUUUUU  NN        NN  LLLLLLLLLLLL  OOOOOOOOOOOO  AA        AA  DDDDDDDDDD
+                     UUUUUUUUUU   NN         N  LLLLLLLLLLLL  OOOOOOOOOOOO  AA        AA  DDDDDDDDD
+
+
+
+                    JJJJJJJJJJ   3333333333   555555555555   2222222222   555555555555                 AAAAAAAAAA
+                    JJJJJJJJJJ  333333333333  555555555555  222222222222  555555555555                AAAAAAAAAAAA
+                        JJ      33        33  55            22        22  55                          AA        AA
+                        JJ                33  55                      22  55                          AA        AA
+                        JJ                33  55                      22  55                          AA        AA
+                        JJ             3333   555555555              22   555555555                   AAAAAAAAAAAA
+                        JJ             3333   5555555555           22     5555555555                  AAAAAAAAAAAA
+                        JJ                33           55        22                55                 AA        AA
+                  JJ    JJ                33            55     22                   55                AA        AA
+                  JJ    JJ      33        33            55   22                     55                AA        AA
+                  JJJJJJJJ      333333333333  555555555555  222222222222  555555555555                AA        AA
+                   JJJJJJ        3333333333   55555555555   222222222222  55555555555                 AA        AA
+
+
+****A  START  JOB 3525  UNLOAD                          ROOM       10.45.48 PM 12 FEB 23  PRINTER1  SYS TK4-  JOB 3525  START  A****
+****A  START  JOB 3525  UNLOAD                          ROOM       10.45.48 PM 12 FEB 23  PRINTER1  SYS TK4-  JOB 3525  START  A****
+****A  START  JOB 3525  UNLOAD                          ROOM       10.45.48 PM 12 FEB 23  PRINTER1  SYS TK4-  JOB 3525  START  A****
+****A  START  JOB 3525  UNLOAD                          ROOM       10.45.48 PM 12 FEB 23  PRINTER1  SYS TK4-  JOB 3525  START  A****
+                                                J E S 2   J O B   L O G
+
+
+22.45.08 JOB 3525  $HASP373 UNLOAD   STARTED - INIT  1 - CLASS A - SYS TK4-
+22.45.08 JOB 3525  IEF403I UNLOAD - STARTED - TIME=22.45.08
+22.45.08 JOB 3525 *IEC501A M 480,MP3270,SL,6250 BPI,UNLOAD,S1
+22.45.47 JOB 3525  IEC705I TAPE ON 480,MP3270,SL,6250 BPI,UNLOAD,S1
+22.45.47 JOB 3525  IEFACTRT - Stepname  Procstep  Program   Retcode
+22.45.47 JOB 3525  UNLOAD     S1                  IEBGENER  RC= 0000
+22.45.47 JOB 3525  UNLOAD     S2                  IEBCOPY   RC= 0000
+22.45.47 JOB 3525  UNLOAD     S3                  IEBCOPY   RC= 0000
+22.45.47 JOB 3525  UNLOAD     S4                  IEBCOPY   RC= 0000
+22.45.47 JOB 3525  UNLOAD     S5                  IEBCOPY   RC= 0000
+22.45.47 JOB 3525  UNLOAD     S6                  IEBCOPY   RC= 0000
+22.45.48 JOB 3525  UNLOAD     S7                  IEBCOPY   RC= 0000
+22.45.48 JOB 3525  UNLOAD     S8                  IEBCOPY   RC= 0000
+22.45.48 JOB 3525  UNLOAD     S9                  IEBCOPY   RC= 0000
+22.45.48 JOB 3525  UNLOAD     S10                 IEBCOPY   RC= 0000
+22.45.48 JOB 3525  UNLOAD     S11                 IEBCOPY   RC= 0000
+22.45.48 JOB 3525  UNLOAD     S12                 IEBCOPY   RC= 0000
+22.45.48 JOB 3525  IEF234E K 480,MP3270,PVT,UNLOAD
+22.45.48 JOB 3525  IEF404I UNLOAD - ENDED - TIME=22.45.48
+22.45.48 JOB 3525  $HASP395 UNLOAD   ENDED
+
+
+------ JES2 JOB STATISTICS ------
+
+
+ 12 FEB 23 JOB EXECUTION DATE
+
+
+       116 CARDS READ
+
+
+       703 SYSOUT PRINT RECORDS
+
+
+         0 SYSOUT PUNCH RECORDS
+
+
+      0.67 MINUTES EXECUTION TIME
+    1     //UNLOAD  JOB MSGCLASS=A,MSGLEVEL=(1,1), ,TYPRUN=SCAN                   JOB 3525
+          //   USER=HERCEL,PASSWORD=
+          ***
+          ***  THIS WILL COPY THE RESTORE JCL TO THE TAPE
+          ***
+    2     //S1  EXEC PGM=IEBGENER
+    3     //SYSUT1 DD DSN=HERCEL.MAP3270.CNTL(RESTORE),DISP=SHR
+    4     //SYSUT2 DD DSN=DISTRO1,DISP=(NEW,KEEP),
+          //       DCB=(RECFM=FB,LRECL=80,BLKSIZE=3120),
+          //       UNIT=(480,,DEFER),VOL=(,RETAIN,SER=MP3270),
+          //       LABEL=(1,SL)
+    5     //SYSPRINT DD SYSOUT=*
+    6     //SYSIN  DD DUMMY
+          ***
+          ***  THIS WILL COPY THE PDS TO TAPE USING IEBCOPY
+          ***
+    7     //S2  EXEC PGM=IEBCOPY
+    8     //IN01   DD DSN=HERCEL.MAP3270.ASM,DISP=SHR
+    9     //OUT01  DD DSN=DISTRO2,DISP=(NEW,KEEP),
+          //       UNIT=(480,,DEFER),VOL=(,RETAIN,SER=MP3270),
+          //       LABEL=(2,SL)
+   10     //SYSPRINT DD SYSOUT=*
+   11     //SYSIN  DD *
+          ***
+   12     //S3  EXEC PGM=IEBCOPY
+   13     //IN01   DD DSN=HERCEL.MAP3270.COB,DISP=SHR
+   14     //OUT01  DD DSN=DISTRO3,DISP=(NEW,KEEP),
+          //       UNIT=(480,,DEFER),VOL=(,RETAIN,SER=MP3270),
+          //       LABEL=(3,SL)
+   15     //SYSPRINT DD SYSOUT=*
+   16     //SYSIN  DD *
+          ***
+   17     //S4  EXEC PGM=IEBCOPY
+   18     //IN01   DD DSN=HERCEL.MAP3270.MACLIB,DISP=SHR
+   19     //OUT01  DD DSN=DISTRO4,DISP=(NEW,KEEP),
+          //       UNIT=(480,,DEFER),VOL=(,RETAIN,SER=MP3270),
+          //       LABEL=(4,SL)
+   20     //SYSPRINT DD SYSOUT=*
+   21     //SYSIN  DD *
+          ***
+   22     //S5  EXEC PGM=IEBCOPY
+   23     //IN01   DD DSN=HERCEL.MAP3270.MAP,DISP=SHR
+   24     //OUT01  DD DSN=DISTRO5,DISP=(NEW,KEEP),
+          //       UNIT=(480,,DEFER),VOL=(,RETAIN,SER=MP3270),
+          //       LABEL=(5,SL)
+   25     //SYSPRINT DD SYSOUT=*
+   26     //SYSIN  DD *
+          ***
+   27     //S6  EXEC PGM=IEBCOPY
+   28     //IN01   DD DSN=HERCEL.MAP3270.PANEL,DISP=SHR
+   29     //OUT01  DD DSN=DISTRO6,DISP=(NEW,KEEP),
+          //       UNIT=(480,,DEFER),VOL=(,RETAIN,SER=MP3270),
+          //       LABEL=(6,SL)
+   30     //SYSPRINT DD SYSOUT=*
+   31     //SYSIN  DD *
+          ***
+   32     //S7  EXEC PGM=IEBCOPY
+   33     //IN01   DD DSN=HERCEL.MAP3270.PLI,DISP=SHR
+   34     //OUT01  DD DSN=DISTRO7,DISP=(NEW,KEEP),
+          //       UNIT=(480,,DEFER),VOL=(,RETAIN,SER=MP3270),
+          //       LABEL=(7,SL)
+   35     //SYSPRINT DD SYSOUT=*
+   36     //SYSIN  DD *
+          ***
+   37     //S8  EXEC PGM=IEBCOPY
+   38     //IN01   DD DSN=HERCEL.MAP3270.SOURCE,DISP=SHR
+   39     //OUT01  DD DSN=DISTRO8,DISP=(NEW,KEEP),
+          //       UNIT=(480,,DEFER),VOL=(,RETAIN,SER=MP3270),
+          //       LABEL=(8,SL)
+   40     //SYSPRINT DD SYSOUT=*
+   41     //SYSIN  DD *
+          ***
+   42     //S9  EXEC PGM=IEBCOPY
+   43     //IN01   DD DSN=HERCEL.MAP3270.LOADLIB,DISP=SHR
+   44     //OUT01  DD DSN=DISTRO9,DISP=(NEW,KEEP),
+          //       UNIT=(480,,DEFER),VOL=(,RETAIN,SER=MP3270),
+          //       LABEL=(9,SL)
+   45     //SYSPRINT DD SYSOUT=*
+   46     //SYSIN  DD *
+          ***
+   47     //S10  EXEC PGM=IEBCOPY
+   48     //IN01   DD DSN=HERCEL.MAP3270.CNTL,DISP=SHR
+   49     //OUT01  DD DSN=DISTR10,DISP=(NEW,KEEP),
+          //       UNIT=(480,,DEFER),VOL=(,RETAIN,SER=MP3270),
+          //       LABEL=(10,SL)
+   50     //SYSPRINT DD SYSOUT=*
+   51     //SYSIN  DD *
+          ***
+   52     //S11  EXEC PGM=IEBCOPY
+   53     //IN01   DD DSN=HERCEL.MAP3270.SOURCE5,DISP=SHR
+   54     //OUT01  DD DSN=DISTR11,DISP=(NEW,KEEP),
+          //       UNIT=(480,,DEFER),VOL=(,RETAIN,SER=MP3270),
+          //       LABEL=(11,SL)
+   55     //SYSPRINT DD SYSOUT=*
+   56     //SYSIN  DD *
+          ***
+   57     //S12  EXEC PGM=IEBCOPY
+   58     //IN01   DD DSN=HERCEL.MAP3270.PANEL5,DISP=SHR
+   59     //OUT01  DD DSN=DISTR12,DISP=(NEW,KEEP),
+          //       UNIT=(480,,DEFER),VOL=(,RETAIN,SER=MP3270),
+          //       LABEL=(12,SL)
+   60     //SYSPRINT DD SYSOUT=*
+   61     //SYSIN  DD *
+          ***
+          ***
+IEF236I ALLOC. FOR UNLOAD S1
+IEF237I 245  ALLOCATED TO SYSUT1
+IEF237I 242  ALLOCATED TO SYS00065
+IEF237I 480  ALLOCATED TO SYSUT2
+IEF237I JES2 ALLOCATED TO SYSPRINT
+IEF237I DMY  ALLOCATED TO SYSIN
+IEF142I UNLOAD S1 - STEP WAS EXECUTED - COND CODE 0000
+IEF285I   HERCEL.MAP3270.CNTL                          KEPT          *--------7
+IEF285I   VOL SER NOS= EVOL03.
+IEF285I   UCEVOLS                                      KEPT          *--------0
+IEF285I   VOL SER NOS= EVOL00.
+IEF285I   DISTRO1                                      KEPT          *--------6
+IEF285I   VOL SER NOS= MP3270.
+IEF285I   JES2.JOB03525.SO0112                         SYSOUT
+IEF373I STEP /S1      / START 23043.2245
+IEF374I STEP /S1      / STOP  23043.2245 CPU    0MIN 00.02SEC SRB    0MIN 00.00SEC VIRT    48K SYS   176K
+************************************************************************************************************************************
+*     1. Jobstep of job: UNLOAD      Stepname: S1          Program name: IEBGENER   Executed on 12.02.23 from 22.45.08 to 22.45.47 *
+*         elapsed time  00:00:39,04                      CPU-Identifier:  TK4-           Page-in:      0                           *
+*             CPU time  00:00:00,02               Virtual Storage used:     48K         Page-out:      0                           *
+*           corr. CPU:  00:00:00,02   CPU time has been corrected by  1 / 1,0  multiplier                                          *
+*                                                                                                                                  *
+*     I/O Operation                                                                                                                *
+*     Number of records read via DD * or DD DATA:      0                                                                           *
+*     245.......7 242.......0 480.......6 DMY.......0 DMY.......0                                                                  *
+*                                                                                                                                  *
+*                                          Charge for step (w/o SYSOUT):          0,03                                             *
+************************************************************************************************************************************
+IEF236I ALLOC. FOR UNLOAD S2
+IEF237I 245  ALLOCATED TO IN01
+IEF237I 242  ALLOCATED TO SYS00067
+IEF237I 480  ALLOCATED TO OUT01
+IEF237I JES2 ALLOCATED TO SYSPRINT
+IEF237I JES2 ALLOCATED TO SYSIN
+IEF142I UNLOAD S2 - STEP WAS EXECUTED - COND CODE 0000
+IEF285I   HERCEL.MAP3270.ASM                           KEPT          *-------58
+IEF285I   VOL SER NOS= EVOL03.
+IEF285I   UCEVOLS                                      KEPT          *--------0
+IEF285I   VOL SER NOS= EVOL00.
+IEF285I   DISTRO2                                      KEPT          *-------42
+IEF285I   VOL SER NOS= MP3270.
+IEF285I   JES2.JOB03525.SO0113                         SYSOUT
+IEF285I   JES2.JOB03525.SI0101                         SYSIN
+IEF373I STEP /S2      / START 23043.2245
+IEF374I STEP /S2      / STOP  23043.2245 CPU    0MIN 00.06SEC SRB    0MIN 00.01SEC VIRT   768K SYS   192K
+************************************************************************************************************************************
+*     2. Jobstep of job: UNLOAD      Stepname: S2          Program name: IEBCOPY    Executed on 12.02.23 from 22.45.47 to 22.45.47 *
+*         elapsed time  00:00:00,10                      CPU-Identifier:  TK4-           Page-in:      0                           *
+*             CPU time  00:00:00,07               Virtual Storage used:    768K         Page-out:      0                           *
+*           corr. CPU:  00:00:00,07   CPU time has been corrected by  1 / 1,0  multiplier                                          *
+*                                                                                                                                  *
+*     I/O Operation                                                                                                                *
+*     Number of records read via DD * or DD DATA:      1                                                                           *
+*     245......58 242.......0 480......42 DMY.......0 DMY.......0                                                                  *
+*                                                                                                                                  *
+*                                          Charge for step (w/o SYSOUT):          0,11                                             *
+************************************************************************************************************************************
+IEF236I ALLOC. FOR UNLOAD S3
+IEF237I 245  ALLOCATED TO IN01
+IEF237I 242  ALLOCATED TO SYS00069
+IEF237I 480  ALLOCATED TO OUT01
+IEF237I JES2 ALLOCATED TO SYSPRINT
+IEF237I JES2 ALLOCATED TO SYSIN
+IEF142I UNLOAD S3 - STEP WAS EXECUTED - COND CODE 0000
+IEF285I   HERCEL.MAP3270.COB                           KEPT          *-------53
+IEF285I   VOL SER NOS= EVOL03.
+IEF285I   UCEVOLS                                      KEPT          *--------0
+IEF285I   VOL SER NOS= EVOL00.
+IEF285I   DISTRO3                                      KEPT          *-------40
+IEF285I   VOL SER NOS= MP3270.
+IEF285I   JES2.JOB03525.SO0114                         SYSOUT
+IEF285I   JES2.JOB03525.SI0102                         SYSIN
+IEF373I STEP /S3      / START 23043.2245
+IEF374I STEP /S3      / STOP  23043.2245 CPU    0MIN 00.05SEC SRB    0MIN 00.01SEC VIRT   768K SYS   192K
+************************************************************************************************************************************
+*     3. Jobstep of job: UNLOAD      Stepname: S3          Program name: IEBCOPY    Executed on 12.02.23 from 22.45.47 to 22.45.47 *
+*         elapsed time  00:00:00,09                      CPU-Identifier:  TK4-           Page-in:      0                           *
+*             CPU time  00:00:00,06               Virtual Storage used:    768K         Page-out:      0                           *
+*           corr. CPU:  00:00:00,06   CPU time has been corrected by  1 / 1,0  multiplier                                          *
+*                                                                                                                                  *
+*     I/O Operation                                                                                                                *
+*     Number of records read via DD * or DD DATA:      1                                                                           *
+*     245......53 242.......0 480......40 DMY.......0 DMY.......0                                                                  *
+*                                                                                                                                  *
+*                                          Charge for step (w/o SYSOUT):          0,10                                             *
+************************************************************************************************************************************
+IEF236I ALLOC. FOR UNLOAD S4
+IEF237I 245  ALLOCATED TO IN01
+IEF237I 242  ALLOCATED TO SYS00071
+IEF237I 480  ALLOCATED TO OUT01
+IEF237I JES2 ALLOCATED TO SYSPRINT
+IEF237I JES2 ALLOCATED TO SYSIN
+IEF142I UNLOAD S4 - STEP WAS EXECUTED - COND CODE 0000
+IEF285I   HERCEL.MAP3270.MACLIB                        KEPT          *-------88
+IEF285I   VOL SER NOS= EVOL03.
+IEF285I   UCEVOLS                                      KEPT          *--------0
+IEF285I   VOL SER NOS= EVOL00.
+IEF285I   DISTRO4                                      KEPT          *-------67
+IEF285I   VOL SER NOS= MP3270.
+IEF285I   JES2.JOB03525.SO0115                         SYSOUT
+IEF285I   JES2.JOB03525.SI0103                         SYSIN
+IEF373I STEP /S4      / START 23043.2245
+IEF374I STEP /S4      / STOP  23043.2245 CPU    0MIN 00.03SEC SRB    0MIN 00.01SEC VIRT   768K SYS   232K
+************************************************************************************************************************************
+*     4. Jobstep of job: UNLOAD      Stepname: S4          Program name: IEBCOPY    Executed on 12.02.23 from 22.45.47 to 22.45.47 *
+*         elapsed time  00:00:00,07                      CPU-Identifier:  TK4-           Page-in:      0                           *
+*             CPU time  00:00:00,04               Virtual Storage used:    768K         Page-out:      0                           *
+*           corr. CPU:  00:00:00,04   CPU time has been corrected by  1 / 1,0  multiplier                                          *
+*                                                                                                                                  *
+*     I/O Operation                                                                                                                *
+*     Number of records read via DD * or DD DATA:      1                                                                           *
+*     245......88 242.......0 480......67 DMY.......0 DMY.......0                                                                  *
+*                                                                                                                                  *
+*                                          Charge for step (w/o SYSOUT):          0,06                                             *
+************************************************************************************************************************************
+IEF236I ALLOC. FOR UNLOAD S5
+IEF237I 245  ALLOCATED TO IN01
+IEF237I 242  ALLOCATED TO SYS00073
+IEF237I 480  ALLOCATED TO OUT01
+IEF237I JES2 ALLOCATED TO SYSPRINT
+IEF237I JES2 ALLOCATED TO SYSIN
+IEF142I UNLOAD S5 - STEP WAS EXECUTED - COND CODE 0000
+IEF285I   HERCEL.MAP3270.MAP                           KEPT          *------113
+IEF285I   VOL SER NOS= EVOL03.
+IEF285I   UCEVOLS                                      KEPT          *--------0
+IEF285I   VOL SER NOS= EVOL00.
+IEF285I   DISTRO5                                      KEPT          *------101
+IEF285I   VOL SER NOS= MP3270.
+IEF285I   JES2.JOB03525.SO0116                         SYSOUT
+IEF285I   JES2.JOB03525.SI0104                         SYSIN
+IEF373I STEP /S5      / START 23043.2245
+IEF374I STEP /S5      / STOP  23043.2245 CPU    0MIN 00.04SEC SRB    0MIN 00.01SEC VIRT   768K SYS   232K
+************************************************************************************************************************************
+*     5. Jobstep of job: UNLOAD      Stepname: S5          Program name: IEBCOPY    Executed on 12.02.23 from 22.45.47 to 22.45.47 *
+*         elapsed time  00:00:00,10                      CPU-Identifier:  TK4-           Page-in:      0                           *
+*             CPU time  00:00:00,05               Virtual Storage used:    768K         Page-out:      0                           *
+*           corr. CPU:  00:00:00,05   CPU time has been corrected by  1 / 1,0  multiplier                                          *
+*                                                                                                                                  *
+*     I/O Operation                                                                                                                *
+*     Number of records read via DD * or DD DATA:      1                                                                           *
+*     245.....113 242.......0 480.....101 DMY.......0 DMY.......0                                                                  *
+*                                                                                                                                  *
+*                                          Charge for step (w/o SYSOUT):          0,08                                             *
+************************************************************************************************************************************
+IEF236I ALLOC. FOR UNLOAD S6
+IEF237I 245  ALLOCATED TO IN01
+IEF237I 242  ALLOCATED TO SYS00075
+IEF237I 480  ALLOCATED TO OUT01
+IEF237I JES2 ALLOCATED TO SYSPRINT
+IEF237I JES2 ALLOCATED TO SYSIN
+IEF142I UNLOAD S6 - STEP WAS EXECUTED - COND CODE 0000
+IEF285I   HERCEL.MAP3270.PANEL                         KEPT          *-------28
+IEF285I   VOL SER NOS= EVOL03.
+IEF285I   UCEVOLS                                      KEPT          *--------0
+IEF285I   VOL SER NOS= EVOL00.
+IEF285I   DISTRO6                                      KEPT          *-------22
+IEF285I   VOL SER NOS= MP3270.
+IEF285I   JES2.JOB03525.SO0117                         SYSOUT
+IEF285I   JES2.JOB03525.SI0105                         SYSIN
+IEF373I STEP /S6      / START 23043.2245
+IEF374I STEP /S6      / STOP  23043.2245 CPU    0MIN 00.02SEC SRB    0MIN 00.00SEC VIRT   768K SYS   232K
+************************************************************************************************************************************
+*     6. Jobstep of job: UNLOAD      Stepname: S6          Program name: IEBCOPY    Executed on 12.02.23 from 22.45.47 to 22.45.47 *
+*         elapsed time  00:00:00,05                      CPU-Identifier:  TK4-           Page-in:      0                           *
+*             CPU time  00:00:00,02               Virtual Storage used:    768K         Page-out:      0                           *
+*           corr. CPU:  00:00:00,02   CPU time has been corrected by  1 / 1,0  multiplier                                          *
+*                                                                                                                                  *
+*     I/O Operation                                                                                                                *
+*     Number of records read via DD * or DD DATA:      1                                                                           *
+*     245......28 242.......0 480......22 DMY.......0 DMY.......0                                                                  *
+*                                                                                                                                  *
+*                                          Charge for step (w/o SYSOUT):          0,03                                             *
+************************************************************************************************************************************
+IEF236I ALLOC. FOR UNLOAD S7
+IEF237I 245  ALLOCATED TO IN01
+IEF237I 242  ALLOCATED TO SYS00077
+IEF237I 480  ALLOCATED TO OUT01
+IEF237I JES2 ALLOCATED TO SYSPRINT
+IEF237I JES2 ALLOCATED TO SYSIN
+IEF142I UNLOAD S7 - STEP WAS EXECUTED - COND CODE 0000
+IEF285I   HERCEL.MAP3270.PLI                           KEPT          *------232
+IEF285I   VOL SER NOS= EVOL03.
+IEF285I   UCEVOLS                                      KEPT          *--------0
+IEF285I   VOL SER NOS= EVOL00.
+IEF285I   DISTRO7                                      KEPT          *------221
+IEF285I   VOL SER NOS= MP3270.
+IEF285I   JES2.JOB03525.SO0118                         SYSOUT
+IEF285I   JES2.JOB03525.SI0106                         SYSIN
+IEF373I STEP /S7      / START 23043.2245
+IEF374I STEP /S7      / STOP  23043.2245 CPU    0MIN 00.07SEC SRB    0MIN 00.02SEC VIRT   768K SYS   232K
+************************************************************************************************************************************
+*     7. Jobstep of job: UNLOAD      Stepname: S7          Program name: IEBCOPY    Executed on 12.02.23 from 22.45.47 to 22.45.48 *
+*         elapsed time  00:00:00,16                      CPU-Identifier:  TK4-           Page-in:      0                           *
+*             CPU time  00:00:00,09               Virtual Storage used:    768K         Page-out:      0                           *
+*           corr. CPU:  00:00:00,09   CPU time has been corrected by  1 / 1,0  multiplier                                          *
+*                                                                                                                                  *
+*     I/O Operation                                                                                                                *
+*     Number of records read via DD * or DD DATA:      1                                                                           *
+*     245.....232 242.......0 480.....221 DMY.......0 DMY.......0                                                                  *
+*                                                                                                                                  *
+*                                          Charge for step (w/o SYSOUT):          0,15                                             *
+************************************************************************************************************************************
+IEF236I ALLOC. FOR UNLOAD S8
+IEF237I 245  ALLOCATED TO IN01
+IEF237I 242  ALLOCATED TO SYS00079
+IEF237I 480  ALLOCATED TO OUT01
+IEF237I JES2 ALLOCATED TO SYSPRINT
+IEF237I JES2 ALLOCATED TO SYSIN
+IEF142I UNLOAD S8 - STEP WAS EXECUTED - COND CODE 0000
+IEF285I   HERCEL.MAP3270.SOURCE                        KEPT          *------960
+IEF285I   VOL SER NOS= EVOL03.
+IEF285I   UCEVOLS                                      KEPT          *--------0
+IEF285I   VOL SER NOS= EVOL00.
+IEF285I   DISTRO8                                      KEPT          *------938
+IEF285I   VOL SER NOS= MP3270.
+IEF285I   JES2.JOB03525.SO0119                         SYSOUT
+IEF285I   JES2.JOB03525.SI0107                         SYSIN
+IEF373I STEP /S8      / START 23043.2245
+IEF374I STEP /S8      / STOP  23043.2245 CPU    0MIN 00.20SEC SRB    0MIN 00.08SEC VIRT   768K SYS   240K
+************************************************************************************************************************************
+*     8. Jobstep of job: UNLOAD      Stepname: S8          Program name: IEBCOPY    Executed on 12.02.23 from 22.45.48 to 22.45.48 *
+*         elapsed time  00:00:00,48                      CPU-Identifier:  TK4-           Page-in:      0                           *
+*             CPU time  00:00:00,28               Virtual Storage used:    768K         Page-out:      0                           *
+*           corr. CPU:  00:00:00,28   CPU time has been corrected by  1 / 1,0  multiplier                                          *
+*                                                                                                                                  *
+*     I/O Operation                                                                                                                *
+*     Number of records read via DD * or DD DATA:      1                                                                           *
+*     245.....960 242.......0 480.....938 DMY.......0 DMY.......0                                                                  *
+*                                                                                                                                  *
+*                                          Charge for step (w/o SYSOUT):          0,46                                             *
+************************************************************************************************************************************
+IEF236I ALLOC. FOR UNLOAD S9
+IEF237I 244  ALLOCATED TO IN01
+IEF237I 242  ALLOCATED TO SYS00081
+IEF237I 480  ALLOCATED TO OUT01
+IEF237I JES2 ALLOCATED TO SYSPRINT
+IEF237I JES2 ALLOCATED TO SYSIN
+IEF142I UNLOAD S9 - STEP WAS EXECUTED - COND CODE 0000
+IEF285I   HERCEL.MAP3270.LOADLIB                       KEPT          *------623
+IEF285I   VOL SER NOS= EVOL02.
+IEF285I   UCEVOLS                                      KEPT          *--------0
+IEF285I   VOL SER NOS= EVOL00.
+IEF285I   DISTRO9                                      KEPT          *-------65
+IEF285I   VOL SER NOS= MP3270.
+IEF285I   JES2.JOB03525.SO0120                         SYSOUT
+IEF285I   JES2.JOB03525.SI0108                         SYSIN
+IEF373I STEP /S9      / START 23043.2245
+IEF374I STEP /S9      / STOP  23043.2245 CPU    0MIN 00.10SEC SRB    0MIN 00.03SEC VIRT   768K SYS   240K
+************************************************************************************************************************************
+*     9. Jobstep of job: UNLOAD      Stepname: S9          Program name: IEBCOPY    Executed on 12.02.23 from 22.45.48 to 22.45.48 *
+*         elapsed time  00:00:00,25                      CPU-Identifier:  TK4-           Page-in:      0                           *
+*             CPU time  00:00:00,13               Virtual Storage used:    768K         Page-out:      0                           *
+*           corr. CPU:  00:00:00,13   CPU time has been corrected by  1 / 1,0  multiplier                                          *
+*                                                                                                                                  *
+*     I/O Operation                                                                                                                *
+*     Number of records read via DD * or DD DATA:      1                                                                           *
+*     244.....623 242.......0 480......65 DMY.......0 DMY.......0                                                                  *
+*                                                                                                                                  *
+*                                          Charge for step (w/o SYSOUT):          0,21                                             *
+************************************************************************************************************************************
+IEF236I ALLOC. FOR UNLOAD S10
+IEF237I 245  ALLOCATED TO IN01
+IEF237I 242  ALLOCATED TO SYS00083
+IEF237I 480  ALLOCATED TO OUT01
+IEF237I JES2 ALLOCATED TO SYSPRINT
+IEF237I JES2 ALLOCATED TO SYSIN
+IEF142I UNLOAD S10 - STEP WAS EXECUTED - COND CODE 0000
+IEF285I   HERCEL.MAP3270.CNTL                          KEPT          *-------39
+IEF285I   VOL SER NOS= EVOL03.
+IEF285I   UCEVOLS                                      KEPT          *--------0
+IEF285I   VOL SER NOS= EVOL00.
+IEF285I   DISTR10                                      KEPT          *-------33
+IEF285I   VOL SER NOS= MP3270.
+IEF285I   JES2.JOB03525.SO0121                         SYSOUT
+IEF285I   JES2.JOB03525.SI0109                         SYSIN
+IEF373I STEP /S10     / START 23043.2245
+IEF374I STEP /S10     / STOP  23043.2245 CPU    0MIN 00.02SEC SRB    0MIN 00.00SEC VIRT   768K SYS   240K
+************************************************************************************************************************************
+*    10. Jobstep of job: UNLOAD      Stepname: S10         Program name: IEBCOPY    Executed on 12.02.23 from 22.45.48 to 22.45.48 *
+*         elapsed time  00:00:00,05                      CPU-Identifier:  TK4-           Page-in:      0                           *
+*             CPU time  00:00:00,02               Virtual Storage used:    768K         Page-out:      0                           *
+*           corr. CPU:  00:00:00,02   CPU time has been corrected by  1 / 1,0  multiplier                                          *
+*                                                                                                                                  *
+*     I/O Operation                                                                                                                *
+*     Number of records read via DD * or DD DATA:      1                                                                           *
+*     245......39 242.......0 480......33 DMY.......0 DMY.......0                                                                  *
+*                                                                                                                                  *
+*                                          Charge for step (w/o SYSOUT):          0,03                                             *
+************************************************************************************************************************************
+IEF236I ALLOC. FOR UNLOAD S11
+IEF237I 245  ALLOCATED TO IN01
+IEF237I 242  ALLOCATED TO SYS00085
+IEF237I 480  ALLOCATED TO OUT01
+IEF237I JES2 ALLOCATED TO SYSPRINT
+IEF237I JES2 ALLOCATED TO SYSIN
+IEF142I UNLOAD S11 - STEP WAS EXECUTED - COND CODE 0000
+IEF285I   HERCEL.MAP3270.SOURCE5                       KEPT          *--------7
+IEF285I   VOL SER NOS= EVOL03.
+IEF285I   UCEVOLS                                      KEPT          *--------0
+IEF285I   VOL SER NOS= EVOL00.
+IEF285I   DISTR11                                      KEPT          *--------8
+IEF285I   VOL SER NOS= MP3270.
+IEF285I   JES2.JOB03525.SO0122                         SYSOUT
+IEF285I   JES2.JOB03525.SI0110                         SYSIN
+IEF373I STEP /S11     / START 23043.2245
+IEF374I STEP /S11     / STOP  23043.2245 CPU    0MIN 00.02SEC SRB    0MIN 00.00SEC VIRT   768K SYS   240K
+************************************************************************************************************************************
+*    11. Jobstep of job: UNLOAD      Stepname: S11         Program name: IEBCOPY    Executed on 12.02.23 from 22.45.48 to 22.45.48 *
+*         elapsed time  00:00:00,05                      CPU-Identifier:  TK4-           Page-in:      0                           *
+*             CPU time  00:00:00,02               Virtual Storage used:    768K         Page-out:      0                           *
+*           corr. CPU:  00:00:00,02   CPU time has been corrected by  1 / 1,0  multiplier                                          *
+*                                                                                                                                  *
+*     I/O Operation                                                                                                                *
+*     Number of records read via DD * or DD DATA:      1                                                                           *
+*     245.......7 242.......0 480.......8 DMY.......0 DMY.......0                                                                  *
+*                                                                                                                                  *
+*                                          Charge for step (w/o SYSOUT):          0,03                                             *
+************************************************************************************************************************************
+IEF236I ALLOC. FOR UNLOAD S12
+IEF237I 245  ALLOCATED TO IN01
+IEF237I 242  ALLOCATED TO SYS00087
+IEF237I 480  ALLOCATED TO OUT01
+IEF237I JES2 ALLOCATED TO SYSPRINT
+IEF237I JES2 ALLOCATED TO SYSIN
+IEF142I UNLOAD S12 - STEP WAS EXECUTED - COND CODE 0000
+IEF285I   HERCEL.MAP3270.PANEL5                        KEPT          *-------35
+IEF285I   VOL SER NOS= EVOL03.
+IEF285I   UCEVOLS                                      KEPT          *--------0
+IEF285I   VOL SER NOS= EVOL00.
+IEF285I   DISTR12                                      KEPT          *-------33
+IEF285I   VOL SER NOS= MP3270.
+IEF285I   JES2.JOB03525.SO0123                         SYSOUT
+IEF285I   JES2.JOB03525.SI0111                         SYSIN
+IEF373I STEP /S12     / START 23043.2245
+IEF374I STEP /S12     / STOP  23043.2245 CPU    0MIN 00.02SEC SRB    0MIN 00.00SEC VIRT   768K SYS   240K
+************************************************************************************************************************************
+*    12. Jobstep of job: UNLOAD      Stepname: S12         Program name: IEBCOPY    Executed on 12.02.23 from 22.45.48 to 22.45.48 *
+*         elapsed time  00:00:00,05                      CPU-Identifier:  TK4-           Page-in:      0                           *
+*             CPU time  00:00:00,02               Virtual Storage used:    768K         Page-out:      0                           *
+*           corr. CPU:  00:00:00,02   CPU time has been corrected by  1 / 1,0  multiplier                                          *
+*                                                                                                                                  *
+*     I/O Operation                                                                                                                *
+*     Number of records read via DD * or DD DATA:      1                                                                           *
+*     245......35 242.......0 480......33 DMY.......0 DMY.......0                                                                  *
+*                                                                                                                                  *
+*                                          Charge for step (w/o SYSOUT):          0,03                                             *
+************************************************************************************************************************************
+IEF375I  JOB /UNLOAD  / START 23043.2245
+IEF376I  JOB /UNLOAD  / STOP  23043.2245 CPU    0MIN 00.65SEC SRB    0MIN 00.17SEC
+DATA SET UTILITY - GENERATE                                                                       PAGE 0001
+
+
+
+PROCESSING ENDED AT EOD
+                                        IEBCOPY MESSAGES AND CONTROL STATEMENTS                               PAGE 0001
+
+
+                     COPY INDD=IN01,OUTDD=OUT01
+IEB167I  FOLLOWING MEMBER(S) UNLOADED FROM INPUT DATA SET REFERENCED BY IN01     -
+IEB154I  AIDCODES HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  DEMOPAN  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  DEMOPA5  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  IOCB     HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  MDEMO1P  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  MDEMO15  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  MDEMO2P  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  MDEMO25  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  MDEMO3P  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  MDEMO35  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  MOD2DEM  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  MOD3DEM  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  MOD4DEM  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  TTYMOD2  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  TTYMOD3  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  TTYMOD4  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  TTYMOD5  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  TTYPARMS HAS BEEN SUCCESSFULLY UNLOADED
+IEB147I  END OF JOB -00 WAS HIGHEST SEVERITY CODE
+                                        IEBCOPY MESSAGES AND CONTROL STATEMENTS                               PAGE 0001
+
+
+                     COPY INDD=IN01,OUTDD=OUT01
+IEB167I  FOLLOWING MEMBER(S) UNLOADED FROM INPUT DATA SET REFERENCED BY IN01     -
+IEB154I  AIDCODES HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  DEMOPAN  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  DEMOPA5  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  IOCB     HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  MDEMO1P  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  MDEMO15  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  MDEMO2P  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  MDEMO25  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  MDEMO3P  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  MDEMO35  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  MOD2DEM  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  MOD3DEM  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  MOD4DEM  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  TTYPARM  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  TTY3270  HAS BEEN SUCCESSFULLY UNLOADED
+IEB147I  END OF JOB -00 WAS HIGHEST SEVERITY CODE
+                                        IEBCOPY MESSAGES AND CONTROL STATEMENTS                               PAGE 0001
+
+
+                     COPY INDD=IN01,OUTDD=OUT01
+IEB167I  FOLLOWING MEMBER(S) UNLOADED FROM INPUT DATA SET REFERENCED BY IN01     -
+IEB154I  $DEBUG   HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  $DUMPER  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  #TRT3270 HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  #TSBA    HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  #TSTPAN  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  EREGS    HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  ERETURN  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  ESTART   HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  TCALL    HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  TCMD     HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  TENDPAN  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  TFVERI   HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  TINPEND  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  TINPMAP  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  TINPST   HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  TRT3270  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  TSBA     HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  TSECT    HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  TSTPAN   HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  TTYRTNX  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  TWCC     HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  T3270    HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  T3270D   HAS BEEN SUCCESSFULLY UNLOADED
+IEB147I  END OF JOB -00 WAS HIGHEST SEVERITY CODE
+                                        IEBCOPY MESSAGES AND CONTROL STATEMENTS                               PAGE 0001
+
+
+                     COPY INDD=IN01,OUTDD=OUT01
+IEB167I  FOLLOWING MEMBER(S) UNLOADED FROM INPUT DATA SET REFERENCED BY IN01     -
+IEB154I  DEMOPAN  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  DEMOPA5  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  MDEMO1P  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  MDEMO15  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  MDEMO2P  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  MDEMO25  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  MDEMO3P  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  MDEMO35  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  MOD2DEM  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  MOD3DEM  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  MOD4DEM  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  TTYMOD2  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  TTYMOD3  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  TTYMOD4  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  TTYMOD5  HAS BEEN SUCCESSFULLY UNLOADED
+IEB147I  END OF JOB -00 WAS HIGHEST SEVERITY CODE
+                                        IEBCOPY MESSAGES AND CONTROL STATEMENTS                               PAGE 0001
+
+
+                     COPY INDD=IN01,OUTDD=OUT01
+IEB167I  FOLLOWING MEMBER(S) UNLOADED FROM INPUT DATA SET REFERENCED BY IN01     -
+IEB154I  DEMOPAN  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  MDEMO1P  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  MDEMO2P  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  MDEMO3P  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  MOD2DEM  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  MOD3DEM  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  MOD4DEM  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  TTYMOD2  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  TTYMOD3  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  TTYMOD4  HAS BEEN SUCCESSFULLY UNLOADED
+IEB147I  END OF JOB -00 WAS HIGHEST SEVERITY CODE
+                                        IEBCOPY MESSAGES AND CONTROL STATEMENTS                               PAGE 0001
+
+
+                     COPY INDD=IN01,OUTDD=OUT01
+IEB167I  FOLLOWING MEMBER(S) UNLOADED FROM INPUT DATA SET REFERENCED BY IN01     -
+IEB154I  AIDCODES HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  DEMOPAN  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  DEMOPA5  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  IOCB     HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  MDEMO1P  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  MDEMO15  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  MDEMO2P  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  MDEMO25  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  MDEMO3P  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  MDEMO35  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  MOD2DEM  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  MOD3DEM  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  MOD4DEM  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  TTYPARM  HAS BEEN SUCCESSFULLY UNLOADED
+IEB147I  END OF JOB -00 WAS HIGHEST SEVERITY CODE
+                                        IEBCOPY MESSAGES AND CONTROL STATEMENTS                               PAGE 0001
+
+
+                     COPY INDD=IN01,OUTDD=OUT01
+IEB167I  FOLLOWING MEMBER(S) UNLOADED FROM INPUT DATA SET REFERENCED BY IN01     -
+IEB154I  $DUMPR   HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  $MODSPEC HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  ADEMO    HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  CDEMO    HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  CDEMO5   HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  FIX2STR  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  MAP3270  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  MDEMO    HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  MDEMO5   HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  M2DEMO   HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  M3DEMO   HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  M4DEMO   HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  PDEMO    HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  PDEMO5   HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  SELECT   HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  TTYCOB   HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  TTYPLI   HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  TTYRTN   HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  TTYRTNP  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  TTYRTN2  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  TTYRTN3  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  TTYRTN4  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  TTYRTN5  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  T3270IO  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  T3270IOP HAS BEEN SUCCESSFULLY UNLOADED
+IEB147I  END OF JOB -00 WAS HIGHEST SEVERITY CODE
+                                        IEBCOPY MESSAGES AND CONTROL STATEMENTS                               PAGE 0001
+
+
+                     COPY INDD=IN01,OUTDD=OUT01
+IEB167I  FOLLOWING MEMBER(S) UNLOADED FROM INPUT DATA SET REFERENCED BY IN01     -
+IEB154I  $A3270   HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  $DUMPR   HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  ADEMO    HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  CDEMO    HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  CDEMO5   HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  DEMOPAN  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  DEMOPA5  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  DYNALDA  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  DYNALDP  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  DYNALOAD HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  MAP3270  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  MAP32705 HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  MDEMO    HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  MDEMO1P  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  MDEMO15  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  MDEMO2P  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  MDEMO25  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  MDEMO3P  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  MDEMO35  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  MDEMO5   HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  MOD2DEM  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  MOD3DEM  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  MOD4DEM  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  M2DEMO   HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  M3DEMO   HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  M4DEMO   HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  PDEMO    HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  PDEMO5   HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  TTYASM   HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  TTYCOB   HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  TTYMOD2  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  TTYMOD3  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  TTYMOD4  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  TTYMOD5  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  TTYPLI   HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  TTYRTN   HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  TTYRTNP  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  TTYRTNW  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  TTYRTN2  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  TTYRTN3  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  TTYRTN4  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  TTYRTN5  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  T327IOP  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  T3270IO  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  T3270IOP HAS BEEN SUCCESSFULLY UNLOADED
+IEB147I  END OF JOB -00 WAS HIGHEST SEVERITY CODE
+                                        IEBCOPY MESSAGES AND CONTROL STATEMENTS                               PAGE 0001
+
+
+                     COPY INDD=IN01,OUTDD=OUT01
+IEB167I  FOLLOWING MEMBER(S) UNLOADED FROM INPUT DATA SET REFERENCED BY IN01     -
+IEB154I  $README  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  COMPILE1 HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  COMPILE2 HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  COMPILE3 HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  COMPILE4 HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  MAP3270  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  RESTORE  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  UNLOAD   HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  UPGRADE  HAS BEEN SUCCESSFULLY UNLOADED
+IEB147I  END OF JOB -00 WAS HIGHEST SEVERITY CODE
+                                        IEBCOPY MESSAGES AND CONTROL STATEMENTS                               PAGE 0001
+
+
+                     COPY INDD=IN01,OUTDD=OUT01
+IEB167I  FOLLOWING MEMBER(S) UNLOADED FROM INPUT DATA SET REFERENCED BY IN01     -
+IEB154I  $MODSPEC HAS BEEN SUCCESSFULLY UNLOADED
+IEB147I  END OF JOB -00 WAS HIGHEST SEVERITY CODE
+                                        IEBCOPY MESSAGES AND CONTROL STATEMENTS                               PAGE 0001
+
+
+                     COPY INDD=IN01,OUTDD=OUT01
+IEB167I  FOLLOWING MEMBER(S) UNLOADED FROM INPUT DATA SET REFERENCED BY IN01     -
+IEB154I  DEMOPA5  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  MDEMO15  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  MDEMO25  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  MDEMO35  HAS BEEN SUCCESSFULLY UNLOADED
+IEB154I  TTYMOD5  HAS BEEN SUCCESSFULLY UNLOADED
+IEB147I  END OF JOB -00 WAS HIGHEST SEVERITY CODE
+                               UU        UU  NN        NN  LL            OOOOOOOOOOOO   AAAAAAAAAA   DDDDDDDDD
+                              UU        UU  NNN       NN  LL            OOOOOOOOOOOO  AAAAAAAAAAAA  DDDDDDDDDD
+                             UU        UU  NNNN      NN  LL            OO        OO  AA        AA  DD       DD
+                            UU        UU  NN NN     NN  LL            OO        OO  AA        AA  DD        DD
+                           UU        UU  NN  NN    NN  LL            OO        OO  AA        AA  DD        DD
+                          UU        UU  NN   NN   NN  LL            OO        OO  AAAAAAAAAAAA  DD        DD
+                         UU        UU  NN    NN  NN  LL            OO        OO  AAAAAAAAAAAA  DD        DD
+                        UU        UU  NN     NN NN  LL            OO        OO  AA        AA  DD        DD
+                       UU        UU  NN      NNNN  LL            OO        OO  AA        AA  DD        DD
+                      UU        UU  NN       NNN  LL            OO        OO  AA        AA  DD       DD
+                     UUUUUUUUUUUU  NN        NN  LLLLLLLLLLLL  OOOOOOOOOOOO  AA        AA  DDDDDDDDDD
+                     UUUUUUUUUU   NN         N  LLLLLLLLLLLL  OOOOOOOOOOOO  AA        AA  DDDDDDDDD
+
+
+
+                    JJJJJJJJJJ   3333333333   555555555555   2222222222   555555555555                 AAAAAAAAAA
+                    JJJJJJJJJJ  333333333333  555555555555  222222222222  555555555555                AAAAAAAAAAAA
+                        JJ      33        33  55            22        22  55                          AA        AA
+                        JJ                33  55                      22  55                          AA        AA
+                        JJ                33  55                      22  55                          AA        AA
+                        JJ             3333   555555555              22   555555555                   AAAAAAAAAAAA
+                        JJ             3333   5555555555           22     5555555555                  AAAAAAAAAAAA
+                        JJ                33           55        22                55                 AA        AA
+                  JJ    JJ                33            55     22                   55                AA        AA
+                  JJ    JJ      33        33            55   22                     55                AA        AA
+                  JJJJJJJJ      333333333333  555555555555  222222222222  555555555555                AA        AA
+                   JJJJJJ        3333333333   55555555555   222222222222  55555555555                 AA        AA
+
+
+****A   END   JOB 3525  UNLOAD                          ROOM       10.45.49 PM 12 FEB 23  PRINTER1  SYS TK4-  JOB 3525   END   A****
+****A   END   JOB 3525  UNLOAD                          ROOM       10.45.49 PM 12 FEB 23  PRINTER1  SYS TK4-  JOB 3525   END   A****
+****A   END   JOB 3525  UNLOAD                          ROOM       10.45.49 PM 12 FEB 23  PRINTER1  SYS TK4-  JOB 3525   END   A****
+****A   END   JOB 3525  UNLOAD                          ROOM       10.45.49 PM 12 FEB 23  PRINTER1  SYS TK4-  JOB 3525   END   A****
+
